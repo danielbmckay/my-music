@@ -1,6 +1,6 @@
 # Equality Music
 
-Independent record label founded by Daniel McKay. Represents all cultures and all people.
+Independent record label founded by Danny McKay. Represents all cultures and all people.
 
 ## Roster
 
