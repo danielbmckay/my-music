@@ -34,26 +34,101 @@ Voice Memo (iPhone) → Apple Notes (lyrics) → Ableton (production) → eMaste
 
 ### '89 Vision
 
-| Album | Tracks |
-|-------|--------|
-| **'89 Vision** | '89 Vision (Reggae), Starfighter |
-| **Free Style** | Above The Clouds, Bee Kind (Remixed), Chimes, FTW, Jain, Rainy Daze |
-| **Feels** | Floating, Flyin', For Real (Proof), Freaks, Fresh — each with vocal + instrumental |
-| **Sunny Daze** | Baby Girl, The Thing, Trapped, Where Do We Go? — plus alternates/remasters |
-| **Birds Eye** | Muzak My Baby, The Starfighter's Satellite (feat. Luca The Legacy), The Way to The Sea |
-| **Cover Up** | Creep (Acoustic) |
-| **Instrumental** | 19 instrumentals — the production catalog |
+**'89 Vision** (2 tracks)
+1. '89 Vision (Reggae)
+2. Starfighter
 
-Plus 16 extras not on any album.
+**Free Style** (6 tracks)
+1. Above The Clouds
+2. Bee Kind (Remixed)
+3. Chimes
+4. FTW
+5. Jain
+6. Rainy Daze
+
+**Feels** (10 tracks)
+1. Floating (vocals)
+2. Flyin' (vocals)
+3. Flyin'
+4. For Real
+5. For Real (Proof)
+6. For Real (Proof) (vocals)
+7. Freaks
+8. Freaks (vocals)
+9. Fresh
+10. Fresh (vocals)
+
+**Sunny Daze** (7 tracks)
+1. Baby Girl
+2. Baby Girl (Alternate)
+3. Baby Girl (remastered)
+4. The Thing
+5. The Thing (clean)
+6. Trapped
+7. Where Do We Go?
+
+**Birds Eye** (3 tracks)
+1. Muzak, My Baby
+2. The Starfighter's Satellite (feat. Luca The Legacy)
+3. The Way to The Sea
+
+**Cover Up** (1 track)
+1. Creep (Acoustic)
+
+**Instrumental** (19 tracks)
+1. Above The Clouds (Instrumental)
+2. Articulate
+3. Bee Kind (Instrumental)
+4. Chimes (Instrumental)
+5. Dream State
+6. Drums
+7. Fazed
+8. Groove
+9. Jain (Instrumental)
+10. Pointless
+11. Pretty Penny
+12. Rainy Daze (Instrumental)
+13. Rainy Daze (Instrumental 2)
+14. Shot Caller
+15. This Train (Instrumental)
+16. Turtle Power
+17. Uki Luki
+18. Wonka
+19. Zamboni
+
+**Extras** (16 tracks)
+1. Above The Clouds (raw vocals)
+2. Bee Kind (Electric)
+3. Flute
+4. Groove 2
+5. Mary Jane
+6. Me And My Arrow
+7. My Love
+8. Reggae Love
+9. Sum Freestyle (vocals)
+10. The Bug
+11. The Call
+12. The King
+13. The Starfighter's Satellite
+14. The Starfighter's Satellite (Hard)
+15. This Train
+16. This Train (remixed)
 
 ### AA Audible
 
-| Album | Description |
-|-------|-------------|
-| **My Savior** | Scripture-based tracks — Praise, Psalm 1, Psalm 124, Truth |
-| **My Religion** | In progress |
-| **My Testimony** | In progress |
-| **Reflections** | Personal journal entries — 4-15-2024, Daily Reflection 8-13-24 |
+**My Savior** (4 tracks)
+1. Praise [Ephesians 5:18-20]
+2. Psalm 1
+3. Psalm 124
+4. Truth [James 1:17-27]
+
+**My Religion** — in progress
+
+**My Testimony** — in progress
+
+**Reflections** (2 tracks)
+1. 4-15-2024
+2. Daily Reflection 8-13-24
 
 ## Album Plans vs Reality
 
