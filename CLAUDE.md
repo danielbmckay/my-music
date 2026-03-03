@@ -1,28 +1,122 @@
-# Ableton Music Production Agent
+# Equality Music — Record Label & Creative Catalog
 
-## About This Project
+## About
 
-**Artist:** Daniel McKay
+### The Label
+**Equality Music** — Independent record label founded by Daniel McKay
+- Represents all cultures and all people
+- Parent entity owning all projects and releases
+
+### Label Roster & Hierarchy
+
+```
+Equality Music (Label)
+├── '89 Vision (Band)
+│   └── Danny Boy (Me) — moniker is Irish
+├── AA Audible (Solo project)
+│   └── Danny McKay
+└── Chillakaya (Band) — potential client/collaborator
+    ├── Kemwa Z — Antiguan
+    ├── Lia De (Alia) — Kemwa's wife, keys/manager, from NY
+    └── Damian — Jamaican
+```
+
+### The Artist
+**Daniel McKay** (government name), aka **Danny Boy**
+Solo artist — founding and currently only member of two projects under Equality Music:
+- **'89 Vision** — Danny Boy's public/world-facing project (structured as a band)
+- **AA Audible** — Danny McKay's project
+
+**Major Musical Inspirations:** Bob Marley and Bradley Nowell (Sublime)
+
+### Chillakaya (Potential Client/Collaborator)
+**Genre:** Reggae fusion — Reggae, Soca, Dancehall, Rocksteady, Island Party vibes
+**Based in:** Jacksonville Beach, FL (performs throughout FL and East Coast)
+**Format:** Duo or trio configuration
+**Instrumentation:** Drums, electric bass, keyboards, vocals
+
+**Members:**
+- **Kemwa Z** — Lead vocalist, five-string Steinberger bass player, band founder. From Old Road, Antigua.
+- **Lia De (Alia)** — Manager and keyboardist. Trained musician from New York. Kemwa's wife.
+- **Damian** — Jamaican
+
+**Relationship with Danny:** Performed guitar with them at several local gigs with real audience exposure. Referenced in freestyle recordings. Potential first signing to Equality Music.
+
+**Links:**
+- Website: https://chillakaya.com/
+- Visit St. Augustine: https://www.visitstaugustine.com/musician/chillakaya
+- SoundCloud (Kemwa Z): https://soundcloud.com/zkemwa
+- Instagram: https://www.instagram.com/chillakaya/
+
 **DAW:** Ableton Live
 **Primary Project:** Free Style (LP) - a full-length album project
 **Audio Format:** AIF (Apple AIFF)
+
+### Equality Music Brand Identity
+
+**Logo:** Embroidered textile design — tactile, strong, meant to feel real/touchable
+
+**Color Squares (background):**
+- Red (top-left), Yellow (center), Cyan (bottom-right)
+- When turned on their side and woven together, these three create all colors of the rainbow — representing any flag, any culture
+
+**"EM" Monogram:**
+- **E** — Black diamonds (darkest end of skin tone spectrum)
+- **M** — White diamonds (lightest end of skin tone spectrum)
+- Together: "Equality Music" / "'em" / "me" — everyone is included
+
+**The Lion:**
+- Regal and realistic, still rendered in embroidered texture
+- Symbolizes strength and royalty
+
+**The Crown:**
+- Gold, three-dimensional, reflects red light from adjacent squares
+- 5 gemstones (left to right): Red Sapphire, Orange Cornelian, Emerald, Aquamarine, Amethyst
+- All cut the same — birthstones for Danny's children and himself
+
+**Logo Versions:**
+| Version | Use |
+|---------|-----|
+| Standard | Regular releases |
+| Gold | Certified Gold releases |
+
+### Equality Music Mission Statement
+"Our desire is not that others might be relieved while you are hard pressed, but that there might be equality. At the present time your plenty will supply what they need, so that in turn their plenty will supply what you need." — 2 Corinthians 13-14a
+
+"The one who gathered much did not have too much, and the one who gathered little did not have too little." — 2 Corinthians 14b-15
+
+### Creative Sources
+| Source | Description |
+|--------|-------------|
+| eMastered | Mastering, distribution, album hosting |
+| Ableton Live | DAW — sessions in `Projects/` |
+| Canva | Album/single artwork design |
+| iPhone | Voice memo recordings in `Recordings/iPhone/` |
 
 ## Project Structure
 
 ```
 My Music/
-├── Free Style (LP) Project/    # Main Ableton project folder (369 .als files)
-│   ├── *.als                   # Ableton Live Sets (gzipped XML)
-│   ├── *.alc                   # Ableton Live Clips
-│   └── Ableton Project Info/   # Ableton metadata
-├── Audio Files/                # Exported/bounced audio (142 files, .aif + .asd)
-├── SAMPLES/                    # Sample libraries
-│   └── Focusrite Samples/      # Focusrite bundled samples
-├── tools/                      # Python helper scripts
-│   └── *.py                    # ALS parser, sample manager, audio analysis
-├── claude-temp/                # Temporary working files (gitignored)
+├── CLAUDE.md                   # Static project instructions (must stay at root)
+├── 89 Vision/                  # '89 Vision band catalog
+│   ├── Albums/                 # Each album folder contains:
+│   │   └── [Album Name]/      #   .aif (audio), .md (lyrics/metadata), .png (artwork)
+│   └── Extras/                 # Tracks not on any album
+├── AA Audible/                 # AA Audible catalog (same structure)
+├── Projects/                   # Ableton sessions (workspace)
+│   ├── New/
+│   ├── Raw/
+│   └── Finished/
+├── Recordings/                 # Source recordings
+│   ├── iPhone/                 # Voice Memos (.m4a)
+│   └── Desktop/               # Studio recordings
+├── Samples/                    # Sample libraries
+├── Tools/                      # Python helper scripts
+├── Claude/                     # Claude working files
 └── .venv/                      # Python virtual environment
 ```
+
+**Directory = source of truth.** Track listings, lyrics, metadata, and artwork live alongside the audio files in each album folder. CLAUDE.md is for static label info, conventions, and tool references only.
 
 ## Ableton File Formats
 
@@ -33,7 +127,7 @@ My Music/
 | `.adg` | Gzipped XML | Ableton Device Group - instrument/effect rack preset |
 | `.asd` | Binary | Ableton analysis file (warp markers, transients) - auto-generated |
 
-**Reading ALS/ALC/ADG files:** These are all gzip-compressed XML. Use `tools/als_parser.py` to decompress and parse them. Never modify these files while Ableton has them open.
+**Reading ALS/ALC/ADG files:** These are all gzip-compressed XML. Use `Tools/als_parser.py` to decompress and parse them. Never modify these files while Ableton has them open.
 
 ## Available Tools
 
@@ -52,7 +146,7 @@ source .venv/bin/activate
 - `music21` - Music theory (scales, chords, intervals, notation)
 - `numpy` - Numerical computing (used by audio libraries)
 
-### Helper Scripts (`tools/`)
+### Helper Scripts (`Tools/`)
 - `als_parser.py` - Parse and inspect Ableton Live Set files
 - `sample_manager.py` - Organize, tag, and search samples
 - `audio_info.py` - Analyze audio files (duration, BPM, key, loudness)
@@ -106,11 +200,33 @@ source .venv/bin/activate
 - Alternate mix: `[Title] (remastered).aif`
 - Raw stems: `[Title] (raw vocals).aif`
 
+## eMastered Account
+
+**Platform:** https://emastered.com
+**Profile:** https://emastered.com/artists/89-vision
+**Login:** danielbmckay@gmail.com
+**Plan:** Studio subscription (currently suspended - credit card needs update)
+
+**Features available:** Unlimited mastering, stem separation, distribution, ATOM Synth VST, Linkify link-in-bio
+
+### Distribution Goal
+Distribute finished tracks to streaming platforms via eMastered Distribution:
+- Spotify, Apple Music, YouTube Music, TikTok, Amazon Music, etc.
+- Keep 100% of royalties
+- Requires active subscription + credit card fix
+
+### eMastered Library
+40 mastered tracks across 11 albums. See `89 Vision/` and `AA Audible/` directories for full catalog.
+
+## Discography
+
+11 albums across two projects. Browse `89 Vision/Albums/` and `AA Audible/Albums/` for track listings, lyrics, and artwork.
+
 ## Important Rules
 
 1. **Never modify .als files while Ableton is running** - can corrupt the session
 2. **Always back up before batch operations** on audio files
 3. **Keep .asd files** alongside their audio - they contain warp/analysis data
-4. **Temporary files go in:** `~/Desktop/My Music/claude-temp/`
+4. **Temporary files go in:** `~/Desktop/My Music/Claude/`
 5. **Audio format preference:** AIF (AIFF) is the primary format used in this project
 6. **Python venv:** Always use `.venv` (with dot prefix) for virtual environment

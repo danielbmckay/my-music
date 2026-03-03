@@ -3,24 +3,31 @@
 __pycache__/
 *.pyc
 
-# Ableton analysis files (auto-generated, not needed in git)
+# Ableton analysis files (auto-generated)
 *.asd
 
 # macOS
 .DS_Store
 
 # Audio files (too large for git)
-Audio Files/
-SAMPLES/
 *.aif
 *.aiff
 *.wav
 *.mp3
 *.flac
+*.m4a
 
-# Ableton project files (too large, binary-ish)
-Free Style (LP) Project/
+# Ableton project files
+*.als
+*.alc
+
+# Binary content directories
+Projects/
+Recordings/
+Samples/
+
+# Claude working files
+Claude/
 
 # Temp files
-claude-temp/
 .playwright-mcp/
