@@ -21,19 +21,13 @@ __pycache__/
 *.als
 *.alc
 
-# Binary content directories (contents ignored, .gitkeep tracked)
-Projects/**
-!Projects/.gitkeep
-Recordings/**
-!Recordings/.gitkeep
-!Recordings/*/
-!Recordings/**/.gitkeep
-Samples/**
-!Samples/.gitkeep
+# Binary content directories
+Projects/
+Recordings/
+Samples/
 
 # Claude working files
-Claude/**
-!Claude/.gitkeep
+Claude/
 
 # Temp files
 .playwright-mcp/
