@@ -1,7 +1,8 @@
 ---
 artist: "'89 Vision"
-album: "Free Style"
-track: 13
+album: "'89 Vision"
+key: "C#"
+bpm: 92
 ---
 
 Lyrics not yet transcribed

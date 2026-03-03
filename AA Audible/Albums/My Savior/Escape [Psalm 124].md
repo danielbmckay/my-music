@@ -3,7 +3,7 @@ artist: AA Audible
 album: My Savior
 ---
 
-# Psalm 124
+# Escape [Psalm 124]
 
 Scripture-based spoken word / devotional track from the *My Savior* album.
 

@@ -6,8 +6,8 @@ Independent record label by Danny McKay. Not yet founded — this is the bluepri
 
 | Project | Artist | Description |
 |---------|--------|-------------|
-| **'89 Vision** | Danny Boy | Public/world-facing project — 7 albums, 64 tracks |
-| **AA Audible** | Danny McKay | Faith and reflection — 4 albums, 8 tracks |
+| **'89 Vision** | Danny Boy | 7 albums, 80 released + 16 extras |
+| **AA Audible** | Danny McKay | 4 albums, 32 released |
 
 ## The 10 Core Songs
 
@@ -34,69 +34,101 @@ Voice Memo (iPhone) → Apple Notes (lyrics) → Ableton (production) → eMaste
 
 ### '89 Vision
 
-**'89 Vision** (2 tracks)
-1. '89 Vision (Reggae)
-2. Starfighter
+**'89 Vision** (15 tracks — 00:32:22)
+1. The Sea [Fm, 83bpm]
+2. The Way [Em, 89bpm]
+3. It Hurts [F#m, 103bpm]
+4. '89 Vision [D#m, 172bpm]
+5. '89 Vision (Reggae)
+6. Muzak [D#m, 83bpm]
+7. My Baby [D#, 83bpm]
+8. Safe [C#, 92bpm]
+9. Satellite [D#m, 92bpm]
+10. Starfighter [Em, 96bpm]
+11. Sandy Eggo [Cm, 96bpm]
+12. The Beginning [Gm, 96bpm]
+13. Blurring The Lines (Acoustic) [Bm, 117bpm]
+14. Quality Music (Acoustic) [A#, 83bpm]
+15. They Lied To Me [Cm, 117bpm]
 
-**Free Style** (6 tracks)
-1. Above The Clouds
-2. Bee Kind (Remixed)
-3. Chimes
-4. FTW
-5. Jain
-6. Rainy Daze
+**Free Style** (13 tracks — 00:36:14)
+1. Danny Boy [G#, 136bpm]
+2. Begonia [C, 161bpm / F#m, 89bpm]
+3. The Words [G#, 89bpm]
+4. Jr. Gong [C, 96bpm]
+5. Dollar Tree [Am, 144bpm]
+6. Slave Quarter [C#m, 108bpm]
+7. Jazzy [C#m, 136bpm]
+8. Jain
+9. Above The Clouds
+10. Bee Kind
+11. Rainy Daze
+12. Chimes
+13. FTW
 
-**Feels** (10 tracks)
-1. Floating (vocals)
-2. Flyin' (vocals)
-3. Flyin'
-4. For Real
-5. For Real (Proof)
-6. For Real (Proof) (vocals)
-7. Freaks
-8. Freaks (vocals)
-9. Fresh
-10. Fresh (vocals)
+**Feels** (5 tracks — 00:12:48, prod. by iLLPeTiLL)
+1. Freaks
+2. Flyin'
+3. Floating
+4. For Real (Proof)
+5. Fresh
 
-**Sunny Daze** (7 tracks)
-1. Baby Girl
-2. Baby Girl (Alternate)
-3. Baby Girl (remastered)
-4. The Thing
-5. The Thing (clean)
-6. Trapped
-7. Where Do We Go?
+**Sunny Daze** (5 tracks — 00:21:14)
+1. Where Do We Go?
+2. The Thing
+3. Baby Girl
+4. Baby Girl (Alternate)
+5. Trapped
 
-**Birds Eye** (3 tracks)
-1. Muzak, My Baby
-2. The Starfighter's Satellite (feat. Luca The Legacy)
-3. The Way to The Sea
+**Bird's Eye** (3 tracks — 00:11:00)
+1. The Way To The Sea
+2. Muzak, My Baby
+3. The Starfighter's Satellite (w/ Luca The Legacy)
 
-**Cover Up** (1 track)
-1. Creep (Acoustic)
+**Cover Up** (18 tracks — 00:45:45)
+1. Had A DAT (A Cappella) [Am, 152bpm]
+2. Bad Decisions [C#m, 144bpm]
+3. Industrial Revolution (A Cappella) [C#m, 136bpm]
+4. Redemption Song (Acoustic/Piano) [F#, 103bpm]
+5. Doin' Time [C, 161bpm]
+6. Couldn't Get High (A Cappella) [Bm, 161bpm]
+7. April 29th, 1992 (A Cappella) [E, 129bpm]
+8. Romeo [Fm, 161bpm]
+9. Garden Grove (A Cappella) [Fm, 81bpm]
+10. Santeria (A Cappella) [D#m, 144bpm]
+11. Marley Medley (A Cappella) [Cm, 129bpm]
+12. Rivers of Babylon (Acoustic) [D, 103bpm]
+13. Wish You Were Here (feat. Blucifer) [Bm, 144bpm]
+14. Creep (Acoustic) [C, 92bpm]
+15. Get Out (Acoustic) [Am, 92bpm]
+16. Foolish Fool (A Cappella) [A, 136bpm]
+17. ABCs (feat. Miss Took) [Bm, 116bpm]
+18. This Train
 
-**Instrumental** (19 tracks)
-1. Above The Clouds (Instrumental)
-2. Articulate
-3. Bee Kind (Instrumental)
-4. Chimes (Instrumental)
-5. Dream State
-6. Drums
-7. Fazed
-8. Groove
-9. Jain (Instrumental)
-10. Pointless
-11. Pretty Penny
+**Instrumental** (21 tracks — 01:00:09)
+1. Dream State
+2. Zamboni
+3. Pretty Penny
+4. Wonka
+5. Turtle Power
+6. Shot Caller
+7. This Train (Instrumental)
+8. Jain (Instrumental)
+9. Starfighter (Instrumental)
+10. Above The Clouds (Instrumental)
+11. Bee Kind (Instrumental)
 12. Rainy Daze (Instrumental)
-13. Rainy Daze (Instrumental 2)
-14. Shot Caller
-15. This Train (Instrumental)
-16. Turtle Power
-17. Uki Luki
-18. Wonka
-19. Zamboni
+13. The Itch
+14. Chimes (Instrumental)
+15. Groove
+16. Pointless
+17. Articulate
+18. Fazed
+19. Uki Luki
+20. Drums
+21. Trapped (Instrumental)
 
-**Extras** (16 tracks)
+**Extras** (16 tracks — not on eMastered)
 1. Above The Clouds (raw vocals)
 2. Bee Kind (Electric)
 3. Flute
@@ -116,19 +148,45 @@ Voice Memo (iPhone) → Apple Notes (lyrics) → Ableton (production) → eMaste
 
 ### AA Audible
 
-**My Savior** (4 tracks)
-1. Praise [Ephesians 5:18-20]
-2. Psalm 1
-3. Psalm 124
-4. Truth [James 1:17-27]
+**My Savior** (15 tracks — 00:14:31)
+1. David Becomes King [2 Samuel 5:1-5, 9-10]
+2. David's Sin [2 Samuel 11:1-15]
+3. His Grace [2 Samuel 11:26-12:13]
+4. King of Glory [Psalm 24:7-10]
+5. His Glory [Ephesians 1:13-14]
+6. Five Thousand [John 6:1-13]
+7. He Is King [John 6:14-21]
+8. His Love [Ephesians 3:14-21]
+9. Ascension [Ephesians 4:7-16]
+10. Reverence [Psalm 130]
+11. Praise [Ephesians 5:18-20]
+12. Truth [James 1:17-27]
+13. Mercy [James 2:12-17]
+14. Blessed [Psalm 1]
+15. Escape [Psalm 124]
 
-**My Religion** — in progress
+**My Religion** (13 tracks — 00:04:44)
+1. Upon Awakening
+2. Serenity
+3. Surrender [3rd Step]
+4. Humility [7th Step]
+5. Awareness [11th Step]
+6. Gratitude
+7. Our Father [Matthew 6:9-13]
+8. Forgiveness
+9. Family
+10. Home
+11. Blessings
+12. Thy Sight [Psalm 19:14]
+13. Search Me [Psalm 139:23-24]
 
-**My Testimony** — in progress
+**My Testimony** (2 tracks — 00:01:17)
+1. Revelation
+2. Personal Goal
 
-**Reflections** (2 tracks)
-1. 4-15-2024
-2. Daily Reflection 8-13-24
+**Reflections** (2 tracks — 00:01:54)
+1. 4/15/2024
+2. 8/13/2024
 
 ## Album Plans vs Reality
 
@@ -146,15 +204,15 @@ Voice Memo (iPhone) → Apple Notes (lyrics) → Ableton (production) → eMaste
 - **Forever concept (1):** Easy Coast
 - **The Sea concept (2):** Psalm 91, Bread
 
-## Content Inventory
+## Content by Source
 
-| Source | Total | Matched | Orphaned | Notable Orphans |
-|--------|-------|---------|----------|-----------------|
-| eMastered | 40 tracks | 100% | 0% | Everything released has at least one other source |
-| Voice Memos | 126 | 48% | 52% | Mostly practice (14 Frets series), fragments, unreleased covers |
-| Apple Notes | ~55 titles | 58% | 42% | All 23 unreleased concept tracks |
-| Ableton | 81 sessions | 68% | 32% | Experimental: Butterfly, Etherial, Mary Jane, Road Monger |
-| Canva | 148 pages | 88% | 12% | Photo/promo pages |
+| Source | Count | Description |
+|--------|-------|-------------|
+| eMastered | 112 tracks | All mastered releases across 11 albums |
+| Voice Memos | 126 recordings | Raw freestyles, practice takes, fragments |
+| Apple Notes | ~55 titles | Written lyrics and album concepts |
+| Ableton | 81 sessions | Production files (.als) |
+| Canva | 148 pages | Album artwork, promo materials |
 
 ## Repo Structure
 

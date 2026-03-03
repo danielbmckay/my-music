@@ -3,7 +3,7 @@ artist: AA Audible
 album: My Savior
 ---
 
-# Psalm 1
+# Blessed [Psalm 1]
 
 Scripture-based spoken word / devotional track from the *My Savior* album.
 
