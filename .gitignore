@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Ableton analysis files (auto-generated, not needed in git)
+*.asd
+
+# macOS
+.DS_Store
+
+# Audio files (too large for git)
+Audio Files/
+SAMPLES/
+*.aif
+*.aiff
+*.wav
+*.mp3
+*.flac
+
+# Ableton project files (too large, binary-ish)
+Free Style (LP) Project/
+
+# Temp files
+claude-temp/
+.playwright-mcp/
