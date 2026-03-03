@@ -2,6 +2,7 @@
 artist: "AA Audible"
 album: "My Religion"
 scripture: "Matthew 6:9-13"
+type: "prayer"
 ---
 
 # Our Father [Matthew 6:9-13]

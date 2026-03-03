@@ -1,6 +1,7 @@
 ---
 artist: AA Audible
 album: My Savior
+type: "scripture"
 ---
 
 # Blessed [Psalm 1]

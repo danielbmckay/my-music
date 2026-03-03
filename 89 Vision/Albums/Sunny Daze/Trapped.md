@@ -1,6 +1,9 @@
 ---
-artist: '89 Vision
-album: Sunny Daze
+artist: "'89 Vision"
+album: "Sunny Daze"
+samples:
+  - key: "Cm"
+    bpm: 120
 ---
 
 I'm taking up the whole lane bitch

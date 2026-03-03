@@ -2,6 +2,7 @@
 artist: "AA Audible"
 album: "My Religion"
 scripture: "Psalm 19:14"
+type: "prayer"
 ---
 
 # Thy Sight [Psalm 19:14]

@@ -2,6 +2,7 @@
 artist: "AA Audible"
 album: "My Savior"
 scripture: "2 Samuel 11:26-12:13"
+type: "scripture"
 ---
 
 # His Grace [2 Samuel 11:26-12:13]

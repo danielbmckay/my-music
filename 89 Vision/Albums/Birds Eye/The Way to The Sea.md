@@ -1,7 +1,14 @@
 ---
-artist: '89 Vision
-album: Birds Eye
-note: Mashup of The Way + The Sea
+artist: "'89 Vision"
+album: "Birds Eye"
+samples:
+  - name: "Big Ego's"
+    artist: "Dr. Dre"
+    key: "Cm"
+    bpm: 84
+  - name: "Xxplosive"
+    artist: "Dr. Dre"
+note: "Mashup of The Way + The Sea"
 ---
 
 Mashup track combining elements of "The Way" and "The Sea" from the '89 Vision album.

@@ -2,6 +2,7 @@
 artist: "AA Audible"
 album: "My Savior"
 scripture: "Ephesians 4:7-16"
+type: "scripture"
 ---
 
 # Ascension [Ephesians 4:7-16]

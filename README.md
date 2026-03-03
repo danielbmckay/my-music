@@ -6,7 +6,7 @@ Independent record label by Danny McKay. Not yet founded — this is the bluepri
 
 | Project | Artist | Description |
 |---------|--------|-------------|
-| **'89 Vision** | Danny Boy | 7 albums, 80 released + 16 extras |
+| **'89 Vision** | Danny Boy | 7 albums, 80 released + 36 extras (16 mastered, 20 WIP) |
 | **AA Audible** | Danny McKay | 4 albums, 32 released |
 
 ## The 10 Core Songs
@@ -204,14 +204,69 @@ Voice Memo (iPhone) → Apple Notes (lyrics) → Ableton (production) → eMaste
 - **Forever concept (1):** Easy Coast
 - **The Sea concept (2):** Psalm 91, Bread
 
+## Sample Sources (LP Sessions)
+
+The Free Style LP Ableton project contains numbered sessions that identify the beat/sample used for each freestyle. Danny often freestyles over other artists' instrumentals, sometimes switching beats mid-track.
+
+| Track | Song | Sample | Artist |
+|-------|------|--------|--------|
+| 1 | The Sea | Xxplosive | Dr. Dre |
+| 2 | It Hurts | Scarlet Begonias (Rarities) | Sublime |
+| 3 | Starfighter | Bang Bang / Still D.R.E. | Dr. Dre |
+| 4 | Muzak / My Baby | The Message | Dr. Dre |
+| 5 | The Beginning | Like A Fire | Atmosphere |
+| 6 | The Way / The Words | Big Ego's | Dr. Dre |
+| 7 | '89 Vision | The Message | Dr. Dre |
+| 8 | Run Away | Bitch Niggaz / Murder Ink | Dr. Dre |
+| 9 | Free Style | Forgot About Dre | Dr. Dre |
+
+Shared beats: Muzak and My Baby use the same beat (The Message). The Way and The Words use the same beat (Big Ego's). '89 Vision also uses The Message.
+
+Bird's Eye tracks are medleys that combine multiple beats:
+- **The Way To The Sea** — Big Ego's + Xxplosive
+- **Muzak, My Baby** — The Message
+- **The Starfighter's Satellite** — Bang Bang / Still D.R.E.
+
+## Track Metadata Format
+
+Each song has a `.md` file with YAML frontmatter. Key/BPM data is stored per-sample to support multi-beat freestyle tracks:
+
+```yaml
+---
+artist: "'89 Vision"
+album: "'89 Vision"
+samples:
+  - name: "Xxplosive"
+    artist: "Dr. Dre"
+    key: "Fm"
+    bpm: 83
+---
+```
+
+For tracks with unknown sample sources, the key/BPM from audio analysis is stored without a name:
+
+```yaml
+samples:
+  - key: "Cm"
+    bpm: 120
+```
+
+AA Audible tracks use a `type` field instead of samples (spoken word/scripture/prayer/devotional/reflection).
+
+## Uncataloged Sessions
+
+20 Ableton sessions exist that aren't on any released album. These are works in progress, experiments, and unreleased tracks:
+
+Something, Bumpin Ugly, Butterfly, Creep (original), Creep revisted, Drum Battle, Drunk Ass Bass, Etherial, Fingerpicking, Folk Song, Graves Into Gardens, He's Real, I Don't Know Yet, My Own Song, New Reggae, Practice, Reggae Jam, Road Monger, Run Away, Free Style
+
 ## Content by Source
 
 | Source | Count | Description |
 |--------|-------|-------------|
 | eMastered | 112 tracks | All mastered releases across 11 albums |
+| Ableton | 80 sessions | Production files (.als), 20 uncataloged |
 | Voice Memos | 126 recordings | Raw freestyles, practice takes, fragments |
 | Apple Notes | ~55 titles | Written lyrics and album concepts |
-| Ableton | 81 sessions | Production files (.als) |
 | Canva | 148 pages | Album artwork, promo materials |
 
 ## Repo Structure
@@ -220,7 +275,7 @@ Voice Memo (iPhone) → Apple Notes (lyrics) → Ableton (production) → eMaste
 My Music/
 ├── 89 Vision/          # '89 Vision catalog — albums, extras, per-song metadata
 │   ├── Albums/         # Track .md files organized by album
-│   └── Extras/         # Tracks not on any album
+│   └── Extras/         # Tracks not on any album + uncataloged WIP sessions
 ├── AA Audible/         # AA Audible catalog — same structure
 │   └── Albums/
 ├── Tools/              # Python helper scripts (Ableton parser, audio analysis, etc.)

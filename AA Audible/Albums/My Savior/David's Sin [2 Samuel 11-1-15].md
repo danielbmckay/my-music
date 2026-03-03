@@ -2,6 +2,7 @@
 artist: "AA Audible"
 album: "My Savior"
 scripture: "2 Samuel 11:1-15"
+type: "scripture"
 ---
 
 # David's Sin [2 Samuel 11:1-15]

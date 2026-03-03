@@ -1,7 +1,10 @@
 ---
-artist: '89 Vision
+artist: "'89 Vision"
 album: Extras
-note: Vocal stem
+samples:
+  - key: "C"
+    bpm: 120
+note: "Vocal stem"
 ---
 
 Lyrics not yet transcribed

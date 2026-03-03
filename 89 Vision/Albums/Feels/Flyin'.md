@@ -1,7 +1,10 @@
 ---
-artist: '89 Vision
+artist: "'89 Vision"
 album: Feels
 producer: iLLPeTiLL
+samples:
+  - key: "D"
+    bpm: 135
 ---
 
 Just fly

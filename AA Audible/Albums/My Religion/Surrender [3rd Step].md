@@ -2,6 +2,7 @@
 artist: "AA Audible"
 album: "My Religion"
 reference: "3rd Step"
+type: "devotional"
 ---
 
 # Surrender [3rd Step]

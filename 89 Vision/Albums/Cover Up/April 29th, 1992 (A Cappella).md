@@ -1,6 +1,7 @@
 ---
 artist: "'89 Vision"
 album: "Cover Up"
-key: "E"
-bpm: 129
+samples:
+  - key: "E"
+    bpm: 129
 ---

@@ -1,6 +1,9 @@
 ---
-artist: '89 Vision
+artist: "'89 Vision"
 album: Extras
+samples:
+  - key: "F#"
+    bpm: 118
 ---
 
 Lyrics not yet transcribed

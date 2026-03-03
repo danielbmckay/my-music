@@ -1,6 +1,9 @@
 ---
-artist: '89 Vision
+artist: "'89 Vision"
 album: Instrumental
+samples:
+  - key: "F"
+    bpm: 75
 ---
 
 Instrumental

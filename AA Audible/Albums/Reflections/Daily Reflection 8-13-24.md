@@ -1,6 +1,7 @@
 ---
 artist: AA Audible
 album: Reflections
+type: "reflection"
 ---
 
 # 8/13/2024

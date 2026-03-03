@@ -1,8 +1,11 @@
 ---
-artist: '89 Vision
+artist: "'89 Vision"
 album: Feels
 producer: iLLPeTiLL
-note: Instrumental/backing track
+samples:
+  - key: "Gm"
+    bpm: 120
+note: "Instrumental/backing track"
 ---
 
 Instrumental

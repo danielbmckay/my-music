@@ -1,6 +1,7 @@
 ---
 artist: AA Audible
 album: My Savior
+type: "scripture"
 ---
 
 # Truth [James 1:17-27]

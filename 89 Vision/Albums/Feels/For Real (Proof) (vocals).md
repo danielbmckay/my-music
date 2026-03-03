@@ -1,8 +1,11 @@
 ---
-artist: '89 Vision
+artist: "'89 Vision"
 album: Feels
 producer: iLLPeTiLL
-note: Vocal stem
+samples:
+  - key: "Cm"
+    bpm: 118
+note: "Vocal stem"
 ---
 
 I asked God to bring me you

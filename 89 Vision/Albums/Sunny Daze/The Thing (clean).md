@@ -1,7 +1,10 @@
 ---
-artist: '89 Vision
-album: Sunny Daze
-note: Clean version
+artist: "'89 Vision"
+album: "Sunny Daze"
+samples:
+  - key: "Am"
+    bpm: 164
+note: "Clean version"
 ---
 
 [Am] Do that thing

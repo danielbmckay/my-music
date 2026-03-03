@@ -2,6 +2,7 @@
 artist: "AA Audible"
 album: "My Savior"
 scripture: "James 2:12-17"
+type: "scripture"
 ---
 
 # Mercy [James 2:12-17]

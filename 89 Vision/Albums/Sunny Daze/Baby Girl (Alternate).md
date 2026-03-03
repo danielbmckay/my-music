@@ -1,7 +1,10 @@
 ---
-artist: '89 Vision
-album: Sunny Daze
-note: Alternate version
+artist: "'89 Vision"
+album: "Sunny Daze"
+samples:
+  - key: "Dm"
+    bpm: 163
+note: "Alternate version"
 ---
 
 You are my world

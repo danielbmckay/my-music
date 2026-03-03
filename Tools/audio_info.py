@@ -53,6 +53,7 @@ def analyze_with_essentia(filepath: str) -> dict:
     try:
         import essentia.standard as es
 
+        # Mono for BPM and key detection
         audio = es.MonoLoader(filename=filepath, sampleRate=44100)()
 
         # BPM detection
@@ -63,20 +64,24 @@ def analyze_with_essentia(filepath: str) -> dict:
         key_extractor = es.KeyExtractor()
         key, scale, key_strength = key_extractor(audio)
 
-        # Loudness
-        loudness = es.Loudness()(audio)
-        loudness_momentary = es.LoudnessEBUR128()(audio)
-        integrated_loudness = loudness_momentary[0]
-
-        return {
+        result = {
             'bpm': round(bpm, 1),
             'bpm_confidence': round(float(beats_confidence), 2),
             'key': key,
             'scale': scale,
             'key_label': f"{key} {scale}",
             'key_confidence': round(float(key_strength), 2),
-            'loudness_lufs': round(float(integrated_loudness), 1),
         }
+
+        # Loudness (needs stereo input for EBUR128)
+        try:
+            stereo = es.AudioLoader(filename=filepath)()[0]
+            integrated_loudness = es.LoudnessEBUR128()(stereo)[0]
+            result['loudness_lufs'] = round(float(integrated_loudness), 1)
+        except Exception:
+            result['loudness_lufs'] = round(float(es.Loudness()(audio)), 1)
+
+        return result
     except ImportError:
         return {'error': 'essentia not installed - run: pip install essentia-tensorflow'}
     except Exception as e:

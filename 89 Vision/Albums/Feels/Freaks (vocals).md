@@ -1,8 +1,11 @@
 ---
-artist: '89 Vision
+artist: "'89 Vision"
 album: Feels
 producer: iLLPeTiLL
-note: Vocal stem
+samples:
+  - key: "C"
+    bpm: 120
+note: "Vocal stem"
 ---
 
 You can't mess

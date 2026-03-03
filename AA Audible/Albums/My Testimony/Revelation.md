@@ -1,6 +1,7 @@
 ---
 artist: "AA Audible"
 album: "My Testimony"
+type: "spoken word"
 ---
 
 # Revelation

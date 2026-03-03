@@ -2,6 +2,7 @@
 artist: "AA Audible"
 album: "My Religion"
 reference: "11th Step"
+type: "devotional"
 ---
 
 # Awareness [11th Step]

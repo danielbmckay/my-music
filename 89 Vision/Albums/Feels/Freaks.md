@@ -1,7 +1,10 @@
 ---
-artist: '89 Vision
+artist: "'89 Vision"
 album: Feels
 producer: iLLPeTiLL
+samples:
+  - key: "Cm"
+    bpm: 120
 ---
 
 You can't mess

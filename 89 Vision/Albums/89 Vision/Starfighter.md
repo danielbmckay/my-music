@@ -1,9 +1,11 @@
 ---
-key: D#m
-bpm: 92
-sample: Bang Bang-Still D.R.E., Dr. Dre
-artist: '89 Vision
-album: 89 Vision
+artist: "'89 Vision"
+album: "89 Vision"
+samples:
+  - name: "Bang Bang / Still D.R.E."
+    artist: "Dr. Dre"
+    key: "D#m"
+    bpm: 92
 ---
 
 Lyrics not yet transcribed

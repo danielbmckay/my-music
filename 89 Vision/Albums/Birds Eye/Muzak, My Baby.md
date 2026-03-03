@@ -1,10 +1,12 @@
 ---
-key: D#m
-bpm: 83
-sample: The Message, Dr. Dre
-artist: '89 Vision
-album: Birds Eye
-note: Mashup of Muzak + My Baby
+artist: "'89 Vision"
+album: "Birds Eye"
+samples:
+  - name: "The Message"
+    artist: "Dr. Dre"
+    key: "D#m"
+    bpm: 83
+note: "Mashup of Muzak + My Baby"
 ---
 
 Mashup track combining "Muzak" and "My Baby" from the '89 Vision album (originally LP track #4 [The Message]).

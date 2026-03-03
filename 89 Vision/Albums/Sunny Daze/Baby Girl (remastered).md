@@ -1,7 +1,10 @@
 ---
-artist: '89 Vision
-album: Sunny Daze
-note: Remastered
+artist: "'89 Vision"
+album: "Sunny Daze"
+samples:
+  - key: "Bbm"
+    bpm: 155
+note: "Remastered"
 ---
 
 You are my world

@@ -1,10 +1,12 @@
 ---
-key: D#m
-bpm: 92
-artist: '89 Vision
-album: Birds Eye
-featuring: Luca The Legacy
-note: Mashup of Starfighter + Satellite
+artist: "'89 Vision"
+album: "Birds Eye"
+samples:
+  - name: "Bang Bang / Still D.R.E."
+    artist: "Dr. Dre"
+    key: "D#m"
+    bpm: 92
+note: "Mashup of Starfighter + Satellite"
 ---
 
 Mashup track combining elements of "Starfighter" and "Satellite" from the '89 Vision album, featuring Luca The Legacy.

@@ -1,8 +1,11 @@
 ---
-artist: '89 Vision
+artist: "'89 Vision"
 album: Feels
 producer: iLLPeTiLL
-note: Vocal stem
+samples:
+  - key: "Fm"
+    bpm: 136
+note: "Vocal stem"
 ---
 
 Just fly

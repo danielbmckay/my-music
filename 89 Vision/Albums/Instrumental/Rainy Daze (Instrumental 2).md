@@ -1,7 +1,10 @@
 ---
-artist: '89 Vision
+artist: "'89 Vision"
 album: Instrumental
-note: Alternate instrumental version
+samples:
+  - key: "B"
+    bpm: 98
+note: "Alternate instrumental version"
 ---
 
 Instrumental

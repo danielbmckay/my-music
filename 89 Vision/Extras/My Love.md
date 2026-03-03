@@ -1,6 +1,9 @@
 ---
-artist: '89 Vision
+artist: "'89 Vision"
 album: Extras
+samples:
+  - key: "Ebm"
+    bpm: 83
 ---
 
 We can do the things

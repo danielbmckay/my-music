@@ -2,6 +2,7 @@
 artist: "AA Audible"
 album: "My Religion"
 scripture: "Psalm 139:23-24"
+type: "prayer"
 ---
 
 # Search Me [Psalm 139:23-24]

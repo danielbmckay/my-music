@@ -1,6 +1,9 @@
 ---
-artist: '89 Vision
-album: Sunny Daze
+artist: "'89 Vision"
+album: "Sunny Daze"
+samples:
+  - key: "Am"
+    bpm: 164
 ---
 
 [Am] Do that thing

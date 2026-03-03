@@ -1,6 +1,9 @@
 ---
-artist: '89 Vision
-album: Sunny Daze
+artist: "'89 Vision"
+album: "Sunny Daze"
+samples:
+  - key: "Bbm"
+    bpm: 155
 ---
 
 You are my world
