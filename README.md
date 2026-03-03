@@ -27,7 +27,7 @@ These songs made it through the full creative pipeline — from iPhone freestyle
 ## The Creative Pipeline
 
 ```
-Voice Memo (iPhone) → Apple Notes (lyrics) → Ableton (production) → eMastered (mastering) → Canva (artwork)
+Voice Memo (iPhone) → Apple Notes (lyrics) → Ableton (production) → eMastered (mastering) → Canva (artwork) → Distribution (published)
 ```
 
 ## Discography
