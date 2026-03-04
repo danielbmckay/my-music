@@ -3,6 +3,7 @@ artist: "AA Audible"
 album: "My Savior"
 scripture: "Ephesians 3:14-21"
 type: "scripture"
+release_type: "scripture"
 ---
 
 # His Love [Ephesians 3:14-21]

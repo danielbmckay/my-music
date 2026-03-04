@@ -2,6 +2,7 @@
 artist: "AA Audible"
 album: "My Religion"
 type: "prayer"
+release_type: "scripture"
 ---
 
 # Upon Awakening

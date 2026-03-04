@@ -2,6 +2,7 @@
 artist: AA Audible
 album: Reflections
 type: "reflection"
+release_type: "scripture"
 ---
 
 # 8/13/2024

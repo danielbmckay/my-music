@@ -3,6 +3,7 @@ artist: "AA Audible"
 album: "My Savior"
 scripture: "2 Samuel 5:1-5, 9-10"
 type: "scripture"
+release_type: "scripture"
 ---
 
 # David Becomes King [2 Samuel 5:1-5, 9-10]

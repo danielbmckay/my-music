@@ -3,6 +3,7 @@ artist: "AA Audible"
 album: "My Savior"
 scripture: "Psalm 24:7-10"
 type: "scripture"
+release_type: "scripture"
 ---
 
 # King of Glory [Psalm 24:7-10]

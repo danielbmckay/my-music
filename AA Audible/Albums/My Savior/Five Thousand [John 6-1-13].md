@@ -3,6 +3,7 @@ artist: "AA Audible"
 album: "My Savior"
 scripture: "John 6:1-13"
 type: "scripture"
+release_type: "scripture"
 ---
 
 # Five Thousand [John 6:1-13]

@@ -227,6 +227,27 @@ Bird's Eye tracks are medleys that combine multiple beats:
 - **Muzak, My Baby** — The Message
 - **The Starfighter's Satellite** — Bang Bang / Still D.R.E.
 
+## Release Classification
+
+Every track has a `release_type` in its metadata that determines what's needed for distribution:
+
+| Type | Count | Meaning | What's Needed |
+|------|-------|---------|---------------|
+| `original` | 22 | Danny's own lyrics + own beat | Free to release |
+| `cover` | 18 | Performing someone else's song | Mechanical license (~$0.12/copy via HFA) |
+| `sample` | 17 | Original vocals over someone else's beat | Sample clearance (negotiate with rights holder) |
+| `collab` | 10 | Produced with another artist (iLLPeTiLL) | Collaboration/split agreement |
+| `scripture` | 32 | Spoken word scripture/prayer | Check Bible translation copyright (NIV = Biblica) |
+| `unknown` | 57 | Not yet classified | Danny needs to confirm: own beat or sampled? |
+
+**Ready to release now:** 22 originals (Instrumental album) + 32 scripture (AA Audible, pending NIV check) = 54 tracks
+
+**Need licensing:** 18 covers (mechanical license, compulsory — straightforward) + 17 samples (sample clearance — harder, need rights holder approval)
+
+**Need agreement:** 10 collabs with iLLPeTiLL
+
+**Need classification:** 57 tracks where the beat source is unknown — Free Style, Sunny Daze, most Extras, all WIP sessions. Once Danny confirms which are his own beats vs sampled, they move to `original` or `sample`.
+
 ## Track Metadata Format
 
 Each song has a `.md` file with YAML frontmatter. Key/BPM data is stored per-sample to support multi-beat freestyle tracks:
@@ -235,6 +256,7 @@ Each song has a `.md` file with YAML frontmatter. Key/BPM data is stored per-sam
 ---
 artist: "'89 Vision"
 album: "'89 Vision"
+release_type: "sample"
 samples:
   - name: "Xxplosive"
     artist: "Dr. Dre"

@@ -1,6 +1,7 @@
 ---
 artist: "'89 Vision"
 album: Extras
+release_type: "sample"
 samples:
   - key: "D#m"
     bpm: 92

@@ -3,6 +3,7 @@ artist: "AA Audible"
 album: "My Savior"
 scripture: "Ephesians 1:13-14"
 type: "scripture"
+release_type: "scripture"
 ---
 
 # His Glory [Ephesians 1:13-14]

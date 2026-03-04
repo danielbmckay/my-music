@@ -1,6 +1,7 @@
 ---
 artist: "'89 Vision"
 album: "Birds Eye"
+release_type: "sample"
 samples:
   - name: "Bang Bang / Still D.R.E."
     artist: "Dr. Dre"

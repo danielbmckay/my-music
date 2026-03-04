@@ -2,6 +2,7 @@
 artist: AA Audible
 album: My Savior
 type: "scripture"
+release_type: "scripture"
 ---
 
 # Praise [Ephesians 5:18-20]

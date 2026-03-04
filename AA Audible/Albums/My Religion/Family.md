@@ -2,6 +2,7 @@
 artist: "AA Audible"
 album: "My Religion"
 type: "devotional"
+release_type: "scripture"
 ---
 
 # Family

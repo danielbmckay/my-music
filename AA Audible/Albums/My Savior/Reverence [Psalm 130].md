@@ -3,6 +3,7 @@ artist: "AA Audible"
 album: "My Savior"
 scripture: "Psalm 130"
 type: "scripture"
+release_type: "scripture"
 ---
 
 # Reverence [Psalm 130]

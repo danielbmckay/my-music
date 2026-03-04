@@ -1,6 +1,7 @@
 ---
 artist: "'89 Vision"
 album: "Sunny Daze"
+release_type: "unknown"
 samples:
   - key: "Dm"
     bpm: 163

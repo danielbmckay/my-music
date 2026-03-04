@@ -3,6 +3,7 @@ artist: "AA Audible"
 album: "My Religion"
 reference: "7th Step"
 type: "devotional"
+release_type: "scripture"
 ---
 
 # Humility [7th Step]

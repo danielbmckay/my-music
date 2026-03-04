@@ -3,6 +3,7 @@ artist: "AA Audible"
 album: "My Savior"
 scripture: "John 6:14-21"
 type: "scripture"
+release_type: "scripture"
 ---
 
 # He Is King [John 6:14-21]
