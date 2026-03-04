@@ -6,9 +6,32 @@ Independent record label by Danny McKay. Not yet founded — this is the bluepri
 
 ## The Artist
 
-**Daniel McKay** — San Diego. Grew up in the projects. Jail to Stanford (psychology, decision neuroscience). 16 years sober — got sober at 20. Published researcher in psychology and neuroscience. Two brain injuries — dropped on his head as an infant by his father, who was drinking and covered it up, and a suicide attempt at 18 (car crash that nearly killed another driver already in recovery; Danny later got sober and made amends to him). Volunteers weekly in the gang and murder unit of local jail, runs AA meetings inside. Father. Lives with PTSD. Featured on Shitfaced Sober podcast (June 2023). Degrees in math, science, and psychology. Tattoo artist. Pool player. Celibate. In love with one woman.
+**Daniel McKay** — San Diego. Grew up in the projects in one of SD's worst neighborhoods. Two brain injuries — dropped on his head as an infant by his father, who was drinking and covered it up, and a suicide attempt at 18 (car crash that nearly killed another driver already in recovery; Danny later got sober and made amends to him). Speaks American Sign Language at native level. Lives with PTSD. Father. Tattoo artist. Pool player. Celibate. In love with one woman.
 
-Music is the testimony. Two projects under Equality Music:
+### The Path
+
+Air Force (2007–08, Wing Chapel Leader, Keesler AFB) → jail → Grossmont College (A.S., 3.97 GPA, 2012 Commencement Student Speaker, founded Student-to-Student Peer Counseling Club, Phi Theta Kappa) → Stanford University (B.A. Psychology with Departmental Honors, 3.82 GPA, Decision Neuroscience Laboratory Coordinator, Honors Thesis on the "sign effect" in judgment and decision-making) → Genesis Recovery San Diego (Resident Manager) → software engineering → Head of Engineering at CloseHack. Got sober at 20. 16 years sober.
+
+### Research
+
+Published researcher in psychology and neuroscience. Laboratory Coordinator at Stanford Decision Neuroscience Laboratory (Jan 2013 – Jun 2014). Research on the "sign effect" — three studies on the cognitive basis of judgment and decision-making, presented at Stanford Psychology Department Honors Convention. Prior research at Stanford Psychophysiology Laboratory, Stanford Political Psychology Research Group, and Grossmont College Behavioral Sciences Department.
+
+### Career
+
+- **Head of Engineering** — CloseHack (Aug 2025 – Present)
+- **Senior Software Engineer** — Wickfire (Apr 2017 – Dec 2024, 7 yrs 9 mos) — built custom CMS and client-facing web apps from scratch
+- **Software Engineer** — younity / Entangled Media Corp. (Dec 2015 – Mar 2017)
+- **Web Developer** — 530Digital.com (Jul 2015 – Feb 2016)
+- **Resident Manager** — Genesis Recovery San Diego (Aug 2015 – Dec 2015, Ramona, CA)
+- **Laboratory Coordinator** — Stanford Decision Neuroscience Laboratory (Jan 2013 – Jun 2014)
+- **Research Assistant** — Stanford Psychophysiology Lab, Political Psychology Research Group, Grossmont College Behavioral Sciences (2011–2012)
+- **Teaching Assistant** — Psychology 120: Introductory Psychology, Grossmont College (2011–2012)
+
+Featured on Shitfaced Sober podcast (June 2023). Volunteers weekly in the gang and murder unit of local jail, runs AA meetings inside.
+
+### The Music
+
+Two projects under Equality Music:
 - **'89 Vision** (as Danny Boy) — the world-facing project. Reggae, hip-hop, acoustic, freestyle.
 - **AA Audible** (as Danny McKay) — scripture, prayer, recovery, spoken word.
 
@@ -439,18 +462,3 @@ Bob Marley, Bradley Nowell (Sublime), Slug (Atmosphere), Lil Wayne, 50 Cent, Dr.
 - **The Expendables** — Sampled on Sacrifice.
 - **The Kiffness & Rushawn** — Sampled It's A Beautiful Day (Reprise) on Love.
 
-## About The Artist
-
-Danny McKay is an independent artist, disability survivor, 
-recovery advocate, and published researcher in psychology 
-and neuroscience. He was dropped on his head as a child, 
-resulting in a permanent disability, and survived a suicide 
-attempt at 18 — later going on to research the very topics 
-he lived through: brain injury, trauma, and recovery.
-
-He volunteers weekly in the gang and murder unit of a local 
-prison and runs AA meetings in the local jail as part of his 
-own recovery journey. His music documents real life — 
-survival, faith, betrayal, and hope.
-
-Equality Music exists to represent all cultures and all people.
