@@ -422,13 +422,15 @@ Bob Marley, Bradley Nowell (Sublime), Slug (Atmosphere), Lil Wayne, 50 Cent, Dr.
 ## About The Artist
 
 Danny McKay is an independent artist, disability survivor, 
-and recovery advocate based in San Diego. He was dropped on 
-his head as a child, resulting in a permanent disability, and 
-survived a suicide attempt at 18. 
+recovery advocate, and published researcher in psychology 
+and neuroscience. He was dropped on his head as a child, 
+resulting in a permanent disability, and survived a suicide 
+attempt at 18 — later going on to research the very topics 
+he lived through: brain injury, trauma, and recovery.
 
 He volunteers weekly in the gang and murder unit of a local 
 prison and runs AA meetings in the local jail as part of his 
 own recovery journey. His music documents real life — 
-survival, faith, betrayal, and hope. 
+survival, faith, betrayal, and hope.
 
 Equality Music exists to represent all cultures and all people.
