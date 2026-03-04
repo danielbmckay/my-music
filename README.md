@@ -16,7 +16,7 @@ These songs made it through the full creative pipeline — from iPhone freestyle
 1. **It Hurts** — the magnum opus, full lyrics + vocal dynamics + multiple raw takes
 2. **'89 Vision** — the title track, letter to dad
 3. **Muzak** — the musical influences tribute
-4. **My Baby** — for Danielle
+4. **My Baby** — love song
 5. **Starfighter** — air traffic control motif, Danny is the Starfighter
 6. **The Sea** — spiritual metaphor, love as the ocean
 7. **The Way** — recovery and faith

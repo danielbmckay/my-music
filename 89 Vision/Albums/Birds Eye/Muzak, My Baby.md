@@ -14,7 +14,7 @@ Mashup track combining "Muzak" and "My Baby" from the '89 Vision album (original
 
 Muzak — Musical influences tribute: Bob Marley, Bradley Nowell, Jigga, Hip-Hop, Steel Pulse, UB40, Rhymesayers, Wu-Tang, Atmosphere, Living Legends, Mac Miller, Slightly Stoopid. "You never heard it / That's the real me / I speak with authority / Make Quality Muzak"
 
-My Baby — For Danielle:
+My Baby:
 My baby girl
 has healing powers
 And I'm not talking about

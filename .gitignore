@@ -17,6 +17,9 @@ __pycache__/
 *.flac
 *.m4a
 
+# Image files (too large for git)
+*.png
+
 # Ableton project files
 *.als
 *.alc
@@ -29,5 +32,12 @@ Samples/
 # Claude working files
 Claude/
 
+# Node
+node_modules/
+package.json
+package-lock.json
+
 # Temp files
 .playwright-mcp/
+.playwright-profile/
+claude-temp/
