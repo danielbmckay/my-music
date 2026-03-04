@@ -6,7 +6,7 @@ Independent record label by Danny McKay. Not yet founded — this is the bluepri
 
 ## The Artist
 
-**Daniel McKay** — jail to Stanford. 16 years sober. Published neuroscience researcher. Brain injury survivor. Suicide attempt at 18. Weekly jail volunteer running AA meetings. Father. Lives with PTSD.
+**Daniel McKay** — San Diego. Grew up in the projects. Jail to Stanford (psychology, decision neuroscience). 16 years sober — got sober at 20. Published researcher in psychology and neuroscience. Two brain injuries — dropped on his head as an infant by his father, who was drinking and covered it up, and a suicide attempt at 18 (car crash that nearly killed another driver already in recovery; Danny later got sober and made amends to him). Volunteers weekly in the gang and murder unit of local jail, runs AA meetings inside. Father. Lives with PTSD. Featured on Shitfaced Sober podcast (June 2023). Degrees in math, science, and psychology. Tattoo artist. Pool player. Celibate. In love with one woman.
 
 Music is the testimony. Two projects under Equality Music:
 - **'89 Vision** (as Danny Boy) — the world-facing project. Reggae, hip-hop, acoustic, freestyle.

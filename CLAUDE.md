@@ -27,7 +27,7 @@ Solo artist — founding and currently only member of two projects under Equalit
 - **'89 Vision** — Danny Boy's public/world-facing project (structured as a band)
 - **AA Audible** — Danny McKay's project
 
-**The Story:** Jail to Stanford. 16 years sober. Published neuroscience researcher. Brain injury survivor. Suicide attempt at 18. Weekly jail volunteer — runs AA meetings inside. AA meeting leader. Father. Lives with PTSD.
+**The Story:** San Diego — grew up in the projects. Jail to Stanford (psychology, decision neuroscience). Got sober at 20, 16 years sober. Two brain injuries — dropped on his head as an infant by his father, who was drinking and covered it up, and suicide attempt at 18 (car crash that nearly killed another driver in recovery; Danny later made amends). Published researcher in psychology and neuroscience. Degrees in math, science, and psychology. Volunteers weekly in gang and murder unit of local jail, runs AA meetings inside. Featured on Shitfaced Sober podcast (June 2023). Father. Lives with PTSD. Tattoo artist. Pool player. Celibate.
 
 **Core Themes:** Mental health awareness (lives with PTSD), fatherhood, recovery, truth-telling
 **Major Musical Inspirations:** Bob Marley and Bradley Nowell (Sublime)
