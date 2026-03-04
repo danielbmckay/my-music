@@ -7,6 +7,7 @@ samples:
   - key: "Dm"
     bpm: 163
 note: "Alternate version"
+royalties: "100% to Landon (Danny's ex-stepson)"
 ---
 
 You are my world

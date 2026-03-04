@@ -2,6 +2,7 @@
 artist: "'89 Vision"
 album: "Birds Eye"
 release_type: "mixtape"
+royalties: "Split with Luca The Legacy (featured artist)"
 samples:
   - name: "Bang Bang / Still D.R.E."
     artist: "Dr. Dre"

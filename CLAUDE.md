@@ -27,6 +27,7 @@ Solo artist — founding and currently only member of two projects under Equalit
 - **'89 Vision** — Danny Boy's public/world-facing project (structured as a band)
 - **AA Audible** — Danny McKay's project
 
+**Core Themes:** Mental health awareness (lives with PTSD), fatherhood, recovery, truth-telling
 **Major Musical Inspirations:** Bob Marley and Bradley Nowell (Sublime)
 **Current Influences:** Bumpin Uglies, Ballyhoo!, Chronixx
 

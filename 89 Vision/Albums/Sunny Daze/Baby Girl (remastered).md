@@ -6,6 +6,7 @@ samples:
   - key: "Bbm"
     bpm: 155
 note: "Remastered"
+royalties: "100% to Landon (Danny's ex-stepson)"
 ---
 
 You are my world
