@@ -2,7 +2,7 @@
 artist: "'89 Vision"
 album: "Cover Up"
 release_type: "cover"
-royalties: "Split with Blucifer (featured artist)"
+note: "Blucifer is Danny's service animal"
 samples:
   - key: "Bm"
     bpm: 144

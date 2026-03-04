@@ -2,7 +2,7 @@
 artist: "'89 Vision"
 album: "Cover Up"
 release_type: "cover"
-royalties: "Split with Miss Took (featured artist)"
+note: "Miss Took is Danny's daughter"
 samples:
   - key: "Bm"
     bpm: 116
