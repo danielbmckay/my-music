@@ -7,6 +7,7 @@ samples:
     artist: "Dr. Dre"
     key: "D#m"
     bpm: 92
+note: "Written about Jason (Danny's little brother). The wounded satellite."
 ---
 
 Lyrics not yet transcribed
