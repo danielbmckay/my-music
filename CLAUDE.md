@@ -3,7 +3,7 @@
 ## About
 
 ### The Label
-**Equality Music** — Independent record label founded by Daniel McKay
+**Equality Music** — Independent record label by Daniel McKay (not yet founded — this is the blueprint)
 - Represents all cultures and all people
 - Parent entity owning all projects and releases
 
@@ -27,9 +27,20 @@ Solo artist — founding and currently only member of two projects under Equalit
 - **'89 Vision** — Danny Boy's public/world-facing project (structured as a band)
 - **AA Audible** — Danny McKay's project
 
+**The Story:** Jail to Stanford. 16 years sober. Published neuroscience researcher. Brain injury survivor. Suicide attempt at 18. Weekly jail volunteer — runs AA meetings inside. AA meeting leader. Father. Lives with PTSD.
+
 **Core Themes:** Mental health awareness (lives with PTSD), fatherhood, recovery, truth-telling
 **Major Musical Inspirations:** Bob Marley and Bradley Nowell (Sublime)
 **Current Influences:** Bumpin Uglies, Ballyhoo!, Chronixx
+
+### The Book — "Thrown"
+Published by a Christian ministry, distributed into every prison in America. Chaplain Ray's organization is the model.
+- Repo: `github.com/danielbmckay/my-book`
+- Source material: manuscripts, essays (including AA cultural psychology essay from Stanford)
+- Needs Google Drive connection to access manuscripts
+
+### Music Therapy
+Sessions coming with **Dr. Rossilli** via MIDI.
 
 ### Chillakaya (Potential Client/Collaborator)
 **Genre:** Reggae fusion — Reggae, Soca, Dancehall, Rocksteady, Island Party vibes

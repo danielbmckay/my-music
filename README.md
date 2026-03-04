@@ -2,12 +2,32 @@
 
 Independent record label by Danny McKay. Not yet founded — this is the blueprint. Represents all cultures and all people.
 
+> "Our desire is not that others might be relieved while you are hard pressed, but that there might be equality." — 2 Corinthians 8:13-14a
+
+## The Artist
+
+**Daniel McKay** — jail to Stanford. 16 years sober. Published neuroscience researcher. Brain injury survivor. Suicide attempt at 18. Weekly jail volunteer running AA meetings. Father. Lives with PTSD.
+
+Music is the testimony. Two projects under Equality Music:
+- **'89 Vision** (as Danny Boy) — the world-facing project. Reggae, hip-hop, acoustic, freestyle.
+- **AA Audible** (as Danny McKay) — scripture, prayer, recovery, spoken word.
+
+Core themes: mental health awareness, fatherhood, recovery, truth-telling.
+Major inspirations: Bob Marley, Bradley Nowell (Sublime).
+
 ## Roster
 
 | Project | Artist | Description |
 |---------|--------|-------------|
 | **'89 Vision** | Danny Boy | 7 albums, 80 released + 36 extras (16 mastered, 20 WIP) |
 | **AA Audible** | Danny McKay | 4 albums, 32 released |
+| **Chillakaya** | Kemwa Z, Lia De, Damian | Reggae fusion — potential first signing |
+
+## The Book — "Thrown"
+
+Published by a Christian ministry, distributed into every prison in America. Chaplain Ray's organization is the model. Danny's story from lockup to Stanford, written for the people still inside.
+
+Repo: [github.com/danielbmckay/my-book](https://github.com/danielbmckay/my-book)
 
 ## The 10 Core Songs
 
