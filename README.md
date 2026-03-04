@@ -233,16 +233,16 @@ Every track has a `release_type` in its metadata that determines what's needed f
 
 | Type | Count | Meaning | Distribution |
 |------|-------|---------|--------------|
-| `original` | 41 | Danny's own lyrics + own beat | Streaming platforms (Spotify, Apple Music, etc.) |
+| `original` | 58 | Danny's own lyrics + own beat | Streaming platforms (Spotify, Apple Music, etc.) |
 | `cover` | 19 | Performing someone else's song | Streaming platforms with mechanical license |
 | `mixtape` | 30 | Original vocals over someone else's beat | Free release (SoundCloud, Bandcamp, DatPiff) |
-| `collab` | 13 | Produced with another artist (iLLPeTiLL, etc.) | Streaming platforms with split agreement |
+| `collab` | 14 | Produced with another artist (iLLPeTiLL, etc.) | Streaming platforms with split agreement |
 | `scripture` | 33 | Spoken word scripture/prayer | Streaming platforms (check NIV translation copyright) |
-| `unknown` | 20 | Not yet classified | Danny needs to confirm: own beat or someone else's? |
+| `unknown` | 2 | Not yet classified | Need to verify backing track source |
 
 **Mixtape tracks** use uncleared samples (Dr. Dre, Sublime, Atmosphere, Dirty Heads, Green Day beats). Released for free — not about the money, it's about the music. The traditional hip-hop mixtape model: build a following, share the art.
 
-**Need classification:** 20 tracks where the beat source is unknown (down from 57). Once Danny confirms, they move to `original` (streaming) or `mixtape` (free).
+**Still unknown:** The Thing and The Thing (clean) — uses a backing track that may be royalty-free. Once confirmed, they move to `original` (streaming) or `mixtape` (free).
 
 ## Track Metadata Format
 
