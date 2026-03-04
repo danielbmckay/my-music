@@ -130,7 +130,7 @@ Wayne came out and kept going. He did not skip a beat.
 
 Wayne's relationship with Birdman -- the man he called "daddy," the man who raised him in the music industry -- deteriorated publicly in the mid-2010s. Wayne claimed Cash Money owed him tens of millions of dollars and was holding Tha Carter V hostage. The legal battle was ugly, personal, and public. Wayne eventually freed himself from Cash Money in 2018, and Tha Carter V finally saw the light of day.
 
-The betrayal by a father figure is a wound Wayne has carried openly. It adds another layer to the kinship -- the fathers who fail you, the ones who drop you, the ones who leave. Danny's father dropped him as an infant while drinking and covered it up. Wayne's surrogate father held his life's work hostage for money. Different wounds, same scar tissue.
+The betrayal by a father figure is a wound Wayne has carried openly. It adds another layer to the kinship -- the fathers who fail you, the ones who drop you, the ones who leave. Danny's father dropped him as an infant. Wayne's surrogate father held his life's work hostage for money. Different wounds, same scar tissue.
 
 ---
 

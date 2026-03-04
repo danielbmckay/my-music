@@ -6,7 +6,7 @@ Independent record label by Danny McKay. Not yet founded — this is the bluepri
 
 ## The Artist
 
-**Daniel McKay** — San Diego. Grew up in the projects in one of SD's worst neighborhoods. Two brain injuries — dropped on his head as an infant by his father, who was drinking and covered it up, and a suicide attempt at 18 (car crash that nearly killed another driver already in recovery; Danny later got sober and made amends to him). Speaks American Sign Language at native level. Lives with PTSD. Father. Tattoo artist. Pool player. Celibate. In love with one woman.
+**Daniel McKay** — San Diego. Grew up in the projects in one of SD's worst neighborhoods. Two brain injuries — dropped on his head as an infant by his father, and a suicide attempt at 18 (car crash that nearly killed another driver already in recovery; Danny later got sober and made amends to him). Speaks American Sign Language at native level. Lives with PTSD. Father. Tattoo artist. Pool player. Celibate. In love with one woman.
 
 ### The Path
 
