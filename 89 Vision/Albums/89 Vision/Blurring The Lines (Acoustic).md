@@ -8,4 +8,9 @@ samples:
     source: "original"
 ---
 
-Lyrics not yet transcribed
+*[Whisper draft — needs review]*
+
+Blurring the lines.
+Blurring the lines.
+Blurring the lines.
+Blurring the lines.

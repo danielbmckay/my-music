@@ -8,4 +8,9 @@ samples:
     source: "original"
 ---
 
-Lyrics not yet transcribed
+*[Whisper draft — needs review]*
+
+This train is bound for glory, this train is bound for glory, this train
+Don't carry no one holding you, no it don't
+And I, I just won't be safe
+Thank you for watching!

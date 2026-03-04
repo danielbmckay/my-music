@@ -8,4 +8,16 @@ samples:
     source: "original"
 ---
 
-Lyrics not yet transcribed
+*[Whisper draft — needs review]*
+
+music
+music
+music
+music
+music
+music
+music
+music
+music
+music
+music

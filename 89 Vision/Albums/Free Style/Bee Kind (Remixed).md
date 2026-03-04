@@ -9,4 +9,18 @@ samples:
     source: "original"
 ---
 
-Lyrics not yet transcribed
+*[Whisper draft — needs review]*
+
+Thanks.
+Don't know if I'm a piece of that secret treasure.
+Be time.
+Be time.
+Time.
+Don't know if I'm a piece of that secret treasure.
+Is that a little piece of secret treasure?
+Be time.
+Be time.
+Time.
+Be time.
+Time.
+Be.

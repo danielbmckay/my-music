@@ -9,4 +9,20 @@ samples:
     source: "original"
 ---
 
-Lyrics not yet transcribed
+*[Whisper draft — needs review]*
+
+You can't walk between the raindrops
+Walk between
+Walk between the repose
+Walk between
+Walk between the repose
+Walk between
+Walk between
+Walk between
+Walk between
+Walk between
+Walk between the repose
+Walk between
+Walk between
+Walk between
+The repose

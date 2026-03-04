@@ -9,4 +9,7 @@ samples:
     source: "original"
 ---
 
-Lyrics not yet transcribed
+*[Whisper draft — needs review]*
+
+Unfortunately, I live in this city where they used to sell slaves, where there used to be slavery.
+There used to be slavery, but they actually sold slaves in the quarter where we go to church, and I hold the meeting.

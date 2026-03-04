@@ -9,4 +9,14 @@ samples:
     source: "original"
 ---
 
-Lyrics not yet transcribed
+*[Whisper draft — needs review]*
+
+Thought the world, thought the world, thought the world
+That's right
+Thought the world, thought the world, thought the world
+That's right
+Thought the world, thought the world, thought the world
+That's right
+Thought the world, thought the world, thought the world
+Fuck the world.
+That's right.
