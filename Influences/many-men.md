@@ -17,7 +17,7 @@ A song about surviving real threats with faith intact. 50 recorded this after be
 
 ## Why It Matters
 
-This song captures something real: people who want you gone, and choosing to keep going anyway. Faith and survival in the same breath. That tension lives in the '89 Vision catalog too.
+"Sunny days wouldn't be special if it wasn't for rain / Joy wouldn't feel so good if it wasn't for pain." That line is the thesis. This song captures something real: people who want you gone, and choosing to keep going anyway. Faith and survival in the same breath. That tension lives in the '89 Vision catalog too.
 
 ## Connection To The Catalog
 
