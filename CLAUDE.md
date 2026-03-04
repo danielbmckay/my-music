@@ -28,6 +28,7 @@ Solo artist — founding and currently only member of two projects under Equalit
 - **AA Audible** — Danny McKay's project
 
 **Major Musical Inspirations:** Bob Marley and Bradley Nowell (Sublime)
+**Current Influences:** Bumpin Uglies, Ballyhoo!, Chronixx
 
 ### Chillakaya (Potential Client/Collaborator)
 **Genre:** Reggae fusion — Reggae, Soca, Dancehall, Rocksteady, Island Party vibes
