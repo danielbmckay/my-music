@@ -2,7 +2,7 @@
 artist: "'89 Vision"
 album: "Sunny Daze"
 release_type: "mixtape"
-note: "Uses a YouTube video sample — needs clearance"
+note: "Originally a birthday gift for Danielle, presented in a music box — now releasing publicly. Uses a YouTube video sample — needs clearance."
 royalties: "100% to Landon (Danny's ex-stepson)"
 samples:
   - key: "Bbm"

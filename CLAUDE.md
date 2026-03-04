@@ -124,7 +124,7 @@ My Music/
 │   ├── iPhone/                 # Voice Memos (.m4a)
 │   └── Desktop/               # Studio recordings
 ├── Samples/                    # Sample libraries
-├── Tools/                      # Python helper scripts
+├── Claude/Tools/                # Python helper scripts
 ├── Claude/                     # Claude working files
 └── .venv/                      # Python virtual environment
 ```
@@ -140,7 +140,7 @@ My Music/
 | `.adg` | Gzipped XML | Ableton Device Group - instrument/effect rack preset |
 | `.asd` | Binary | Ableton analysis file (warp markers, transients) - auto-generated |
 
-**Reading ALS/ALC/ADG files:** These are all gzip-compressed XML. Use `Tools/als_parser.py` to decompress and parse them. Never modify these files while Ableton has them open.
+**Reading ALS/ALC/ADG files:** These are all gzip-compressed XML. Use `Claude/Tools/als_parser.py` to decompress and parse them. Never modify these files while Ableton has them open.
 
 ## Available Tools
 
@@ -159,7 +159,7 @@ source .venv/bin/activate
 - `music21` - Music theory (scales, chords, intervals, notation)
 - `numpy` - Numerical computing (used by audio libraries)
 
-### Helper Scripts (`Tools/`)
+### Helper Scripts (`Claude/Tools/`)
 - `als_parser.py` - Parse and inspect Ableton Live Set files
 - `sample_manager.py` - Organize, tag, and search samples
 - `audio_info.py` - Analyze audio files (duration, BPM, key, loudness)
