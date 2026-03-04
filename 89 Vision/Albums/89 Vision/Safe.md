@@ -9,4 +9,17 @@ samples:
     bpm: 92
 ---
 
-Lyrics not yet transcribed
+I'm safe
+She holds my key
+I know the thoughts she has are mine
+She keeps me grounded time
+
+And time again, she
+Locks my soul into her own
+And won't let go
+I know this can't be told
+Anew
+
+But listen, hear me
+Let me tell you
+I'm safe
