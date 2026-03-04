@@ -1,7 +1,7 @@
 ---
 artist: "'89 Vision"
 album: Extras
-release_type: "unknown"
+release_type: "scripture"
 samples:
   - key: "Cm"
     bpm: 117

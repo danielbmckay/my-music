@@ -233,16 +233,16 @@ Every track has a `release_type` in its metadata that determines what's needed f
 
 | Type | Count | Meaning | Distribution |
 |------|-------|---------|--------------|
-| `original` | 22 | Danny's own lyrics + own beat | Streaming platforms (Spotify, Apple Music, etc.) |
-| `cover` | 18 | Performing someone else's song | Streaming platforms with mechanical license |
-| `mixtape` | 17 | Original vocals over someone else's beat | Free release (SoundCloud, Bandcamp, DatPiff) |
-| `collab` | 10 | Produced with another artist (iLLPeTiLL) | Streaming platforms with split agreement |
-| `scripture` | 32 | Spoken word scripture/prayer | Streaming platforms (check NIV translation copyright) |
-| `unknown` | 57 | Not yet classified | Danny needs to confirm: own beat or someone else's? |
+| `original` | 41 | Danny's own lyrics + own beat | Streaming platforms (Spotify, Apple Music, etc.) |
+| `cover` | 19 | Performing someone else's song | Streaming platforms with mechanical license |
+| `mixtape` | 30 | Original vocals over someone else's beat | Free release (SoundCloud, Bandcamp, DatPiff) |
+| `collab` | 13 | Produced with another artist (iLLPeTiLL, etc.) | Streaming platforms with split agreement |
+| `scripture` | 33 | Spoken word scripture/prayer | Streaming platforms (check NIV translation copyright) |
+| `unknown` | 20 | Not yet classified | Danny needs to confirm: own beat or someone else's? |
 
-**Mixtape tracks** use uncleared samples (Dr. Dre, Sublime, Atmosphere beats). Released for free — not about the money, it's about the music. The traditional hip-hop mixtape model: build a following, share the art.
+**Mixtape tracks** use uncleared samples (Dr. Dre, Sublime, Atmosphere, Dirty Heads, Green Day beats). Released for free — not about the money, it's about the music. The traditional hip-hop mixtape model: build a following, share the art.
 
-**Need classification:** 57 tracks where the beat source is unknown. Once Danny confirms, they move to `original` (streaming) or `mixtape` (free).
+**Need classification:** 20 tracks where the beat source is unknown (down from 57). Once Danny confirms, they move to `original` (streaming) or `mixtape` (free).
 
 ## Track Metadata Format
 
@@ -277,13 +277,107 @@ AA Audible tracks use a `type` field instead of samples (spoken word/scripture/p
 
 Something, Bumpin Ugly, Butterfly, Creep (original), Creep revisted, Drum Battle, Drunk Ass Bass, Etherial, Fingerpicking, Folk Song, Graves Into Gardens, He's Real, I Don't Know Yet, My Own Song, New Reggae, Practice, Reggae Jam, Road Monger, Run Away, Free Style
 
+## iPhone Recordings (Recordings/iPhone/)
+
+126 voice memos — the raw source material. Freestyles, covers, practice takes, and spoken word. Many of these became released tracks. Bracket notation `[Sample, Artist]` identifies the beat used.
+
+### Final Cuts (48 recordings)
+
+Polished takes ready for production. Sample sources in brackets:
+
+| Recording | Sample | Artist |
+|-----------|--------|--------|
+| ABCs | Miss Took | — |
+| April 29th, 1992 (Leary w/ Blinker) | April 29th, 1992 | Sublime |
+| April 29th, 1992 (Leary) | April 29th, 1992 | Sublime |
+| Corner Stone | Corner Stone | Bob Marley |
+| Couldn't Get High | Couldn't Get High | Slightly Stoopid |
+| Creep | Creep | Radiohead |
+| Doin' Time | Doin' Time | Sublime |
+| Garden Grove | Garden Grove | Sublime |
+| Get Out (Acoustic) | Get Out | Sublime |
+| Had A Dat | Had A Dat | Sublime |
+| Hooked On A Feeling | What A Feeling | Gregory Isaacs |
+| Industrial Revolution | Industrial Revolution | Immortal Technique |
+| Knocking on Heavens Door | Knocking on Heavens Door | Bob Dylan |
+| Love | It's A Beautiful Day (Reprise) | The Kiffness & Rushawn |
+| Marley Medley | — | Sublime |
+| Messin' 'Round | Ask Alexa | — |
+| New Guitar (Blues Backing) | Ask Alexa | — |
+| New Guitar (Jazz Backing) | Ask Alexa | — |
+| Quality Muzak | I Am That I Am | Peter Tosh |
+| Redemption Song (x2) | Redemption Song | Bob Marley |
+| Rivers of Babylon (Acoustic) (x2) | Rivers of Babylon | Sublime |
+| Romeo | Romeo | Sublime |
+| Santeria | Santeria | Sublime |
+| Shockera | Yellow Ledbetter | Pearl Jam |
+| Slice of the Cake | Slice of the Cake | Sugar Minott |
+| They Lied To Me | Longview | Green Day |
+| Wish You Were Here (x2) | Wish You Were Here | Pink Floyd |
+| "Words" | Rivers of Babylon | Sublime |
+| [Sublime, New Realization] | New Realization | Sublime |
+
+Originals (no sample): Alexa Resume (Pause), Blurring The Lines, Chords (Major, Minor, Diminished), Dollar Tree Freestyle Parts 1-3, G Major, G Minor, Love Freestyle, My Personal Goal, My Revelation, Playing In Circles, Quality Muzak (Learn Some New Chords), Slave Quarter Freestyle, The Pattern, "WTF iPhone"
+
+### Raw Cuts (68 recordings)
+
+Unpolished freestyles and experiments. The gold mine.
+
+**Over Dr. Dre beats:**
+| Recording | Sample |
+|-----------|--------|
+| God's Freestyle | Murder Ink |
+| Muzak (Chill) | Bitch Niggaz |
+| Muzak (Fuck You) | The Next Episode |
+| Muzak (Hard) | Forgot About Dre |
+| Safe Freestyle | Still D.R.E. |
+| Sandy Eggo Freestyle | Bang Bang / Still D.R.E. |
+| Satan's Freestyle | Bitch Niggaz |
+| Satellite Freestyle | Bang Bang |
+| Starfighter Freestyle | Bang Bang |
+| The Way | Big Ego's |
+| '89 Vision (Hold Up) | Fuck You |
+| '89 Vision (It's On Fire) | Keep Their Heads Ringin' |
+
+**Over other artists' beats:**
+| Recording | Sample | Artist |
+|-----------|--------|--------|
+| Bad Decisions | Bad Decisions | Bumpin Uglies |
+| But If You Don't | Taken | Liam Neeson |
+| Creep | Creep | Radiohead |
+| Garden Grove (Pfft) | — | Sublime |
+| GOAT | Like A Fire (Instrumental) | Atmosphere |
+| Industrial Revolution (A Little Slow) | Industrial Revolution | Immortal Technique |
+| Industrial Revolution-Crossing The Boundary | — | Immortal Technique |
+| It Hurts (Grateful Dead version) | Scarlet Begonias | Grateful Dead |
+| It Hurts (Sublime version) | Scarlet Begonias | Sublime |
+| Jr. Gong's Freestyle | Life's Been Good | Dirty Heads |
+| Sacrifice | — | The Expendables |
+| [Industrial Revolution-Crossing The Boundary] | — | Immortal Technique |
+
+**14 Frets series** (guitar instrumentals): 13ish Frets, 14 Frets (Blue, Cut It Out), (First Attempt), (Gm, Slalom), (Probably), (There And Back) x2, [Ask Alexa] x6, G Minor (14 Frets)
+
+**Originals & a cappella:** Cody B's Freestyle, Dollar Tree Freestyle, E=ity Music, EMCuality Muzak, Fern Avenue, Grand Parke Dr, I Felt Like Recording This, Jazzy Freestyle, Lock It Up, Muzak (Acapella), (Jiggy), (My Baby), (Pops), No Diddy Freestyle, Patterns (Time For New Strings), Playing In Circles, Quality Muzak (A Cappella), (Acoustic), (All Together Now), (Woah), Quality Muzak Freestyle, Satan's Return, Shockera (The End), Spun The Fuck Out, The Words Freestyle, '89 Vision (Three Wheels)
+
+**Quoted titles:** "No", "Thousands of mothers are left every single day now"
+
+### Free Style EP (9 recordings)
+
+The core 9 — freestyles that became the backbone of the '89 Vision catalog:
+
+'89 Vision, It Hurts, Muzak, My Baby, Run Away, Starfighter, The Beginning, The Sea, The Way
+
+### New Cuts (1 recording)
+
+Flip Peace Signs, Bee Kind
+
 ## Content by Source
 
 | Source | Count | Description |
 |--------|-------|-------------|
 | eMastered | 112 tracks | All mastered releases across 11 albums |
 | Ableton | 80 sessions | Production files (.als), 20 uncataloged |
-| Voice Memos | 126 recordings | Raw freestyles, practice takes, fragments |
+| Voice Memos | 126 recordings | Raw freestyles, covers, practice, spoken word |
 | Apple Notes | ~55 titles | Written lyrics and album concepts |
 | Canva | 148 pages | Album artwork, promo materials |
 
@@ -309,5 +403,18 @@ Bob Marley, Bradley Nowell (Sublime), Slug (Atmosphere), Lil Wayne, 50 Cent, Dr.
 
 **Labels connected to the catalog:**
 - **Skunk Records** — Sublime's label. Sampled Scarlet Begonias, covered 10+ Sublime tracks on Cover Up.
-- **Rhymesayers Entertainment** — Atmosphere's label. Sampled Like A Fire on The Beginning.
-- **Aftermath/Interscope** — Dr. Dre. 7 tracks built on Dre beats (The Message, Xxplosive, Still D.R.E., Big Ego's, Forgot About Dre, Murder Ink).
+- **Rhymesayers Entertainment** — Atmosphere's label. Sampled Like A Fire on The Beginning and GOAT.
+- **Aftermath/Interscope** — Dr. Dre. 12+ tracks built on Dre beats (The Message, Xxplosive, Still D.R.E., Bang Bang, Big Ego's, Forgot About Dre, Murder Ink, Bitch Niggaz, The Next Episode, Fuck You, Keep Their Heads Ringin').
+- **Dirty Heads** — Sampled Life's Been Good on Jr. Gong.
+- **Green Day** — Sampled Longview on They Lied To Me.
+- **Bumpin Uglies** — Sampled Bad Decisions on Bad Decisions.
+- **Pearl Jam** — Sampled Yellow Ledbetter on Shockera.
+- **Immortal Technique** — Sampled Industrial Revolution (3 recordings).
+- **Pink Floyd** — Covered Wish You Were Here (2 recordings).
+- **Bob Dylan** — Covered Knocking on Heavens Door.
+- **Radiohead** — Covered Creep.
+- **Peter Tosh** — Sampled I Am That I Am on Quality Muzak.
+- **Gregory Isaacs** — Sampled What A Feeling on Hooked On A Feeling.
+- **Sugar Minott** — Covered Slice of the Cake.
+- **The Expendables** — Sampled on Sacrifice.
+- **The Kiffness & Rushawn** — Sampled It's A Beautiful Day (Reprise) on Love.

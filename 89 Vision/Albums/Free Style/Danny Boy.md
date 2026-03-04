@@ -1,10 +1,11 @@
 ---
 artist: "'89 Vision"
 album: "Free Style"
-release_type: "unknown"
+release_type: "mixtape"
 track: 1
 samples:
-  - key: "G#"
+  - artist: "Dr. Dre"
+    key: "G#"
     bpm: 136
 ---
 

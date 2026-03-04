@@ -1,7 +1,7 @@
 ---
 artist: "'89 Vision"
 album: "Sunny Daze"
-release_type: "unknown"
+release_type: "mixtape"
 samples:
   - key: "Bbm"
     bpm: 155

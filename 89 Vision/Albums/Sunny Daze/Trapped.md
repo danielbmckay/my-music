@@ -1,10 +1,11 @@
 ---
 artist: "'89 Vision"
 album: "Sunny Daze"
-release_type: "unknown"
+release_type: "original"
 samples:
   - key: "Cm"
     bpm: 120
+    source: "original"
 ---
 
 I'm taking up the whole lane bitch

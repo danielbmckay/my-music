@@ -2,6 +2,7 @@
 artist: "'89 Vision"
 album: "Sunny Daze"
 release_type: "unknown"
+note: "Uses a backing track — may be free, needs verification"
 samples:
   - key: "Am"
     bpm: 164

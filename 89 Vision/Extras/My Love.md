@@ -1,9 +1,10 @@
 ---
 artist: "'89 Vision"
 album: Extras
-release_type: "unknown"
+release_type: "mixtape"
 samples:
-  - key: "Ebm"
+  - artist: "Dr. Dre"
+    key: "Ebm"
     bpm: 83
 ---
 

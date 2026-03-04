@@ -1,7 +1,8 @@
 ---
 artist: "'89 Vision"
 album: Extras
-release_type: "unknown"
+release_type: "collab"
+producer: "iLLPeTiLL"
 samples:
   - key: "C"
     bpm: 120

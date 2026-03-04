@@ -1,10 +1,12 @@
 ---
 artist: "'89 Vision"
 album: "Free Style"
-release_type: "unknown"
+release_type: "mixtape"
 track: 4
 samples:
-  - key: "C"
+  - name: "Life's Been Good"
+    artist: "Dirty Heads"
+    key: "C"
     bpm: 96
 ---
 

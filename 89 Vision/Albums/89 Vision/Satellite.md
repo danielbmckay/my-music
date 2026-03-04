@@ -1,9 +1,11 @@
 ---
 artist: "'89 Vision"
 album: "'89 Vision"
-release_type: "unknown"
+release_type: "mixtape"
 samples:
-  - key: "D#m"
+  - name: "Bang Bang"
+    artist: "Dr. Dre"
+    key: "D#m"
     bpm: 92
 ---
 

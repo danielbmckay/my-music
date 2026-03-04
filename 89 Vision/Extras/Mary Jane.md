@@ -1,10 +1,12 @@
 ---
 artist: "'89 Vision"
 album: Extras
-release_type: "unknown"
+release_type: "collab"
+producer: "iLLPeTiLL"
 samples:
   - key: "F#"
     bpm: 118
+note: "Also known as Floating — freestyle over iLLPeTiLL beat"
 ---
 
 Lyrics not yet transcribed

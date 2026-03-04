@@ -5,6 +5,7 @@ release_type: "original"
 samples:
   - key: "Bb"
     bpm: 75
+    source: "original"
 ---
 
 Instrumental
