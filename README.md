@@ -305,4 +305,9 @@ Audio files (.aif), Ableton sessions (.als), voice memos (.m4a), and samples are
 
 ## Musical Inspirations
 
-Bob Marley and Bradley Nowell (Sublime)
+Bob Marley, Bradley Nowell (Sublime), Slug (Atmosphere), Lil Wayne, 50 Cent, Dr. Dre, Eminem
+
+**Labels connected to the catalog:**
+- **Skunk Records** — Sublime's label. Sampled Scarlet Begonias, covered 10+ Sublime tracks on Cover Up.
+- **Rhymesayers Entertainment** — Atmosphere's label. Sampled Like A Fire on The Beginning.
+- **Aftermath/Interscope** — Dr. Dre. 7 tracks built on Dre beats (The Message, Xxplosive, Still D.R.E., Big Ego's, Forgot About Dre, Murder Ink).
