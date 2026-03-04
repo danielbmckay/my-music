@@ -1,7 +1,7 @@
 ---
 artist: "'89 Vision"
 album: "Birds Eye"
-release_type: "sample"
+release_type: "mixtape"
 samples:
   - name: "Big Ego's"
     artist: "Dr. Dre"

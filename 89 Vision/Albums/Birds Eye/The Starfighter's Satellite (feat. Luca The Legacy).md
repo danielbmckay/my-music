@@ -1,7 +1,7 @@
 ---
 artist: "'89 Vision"
 album: "Birds Eye"
-release_type: "sample"
+release_type: "mixtape"
 samples:
   - name: "Bang Bang / Still D.R.E."
     artist: "Dr. Dre"

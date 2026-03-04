@@ -1,7 +1,7 @@
 ---
 artist: "'89 Vision"
 album: "'89 Vision"
-release_type: "sample"
+release_type: "mixtape"
 samples:
   - name: "The Message"
     artist: "Dr. Dre"

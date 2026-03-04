@@ -231,22 +231,18 @@ Bird's Eye tracks are medleys that combine multiple beats:
 
 Every track has a `release_type` in its metadata that determines what's needed for distribution:
 
-| Type | Count | Meaning | What's Needed |
-|------|-------|---------|---------------|
-| `original` | 22 | Danny's own lyrics + own beat | Free to release |
-| `cover` | 18 | Performing someone else's song | Mechanical license (~$0.12/copy via HFA) |
-| `sample` | 17 | Original vocals over someone else's beat | Sample clearance (negotiate with rights holder) |
-| `collab` | 10 | Produced with another artist (iLLPeTiLL) | Collaboration/split agreement |
-| `scripture` | 32 | Spoken word scripture/prayer | Check Bible translation copyright (NIV = Biblica) |
-| `unknown` | 57 | Not yet classified | Danny needs to confirm: own beat or sampled? |
+| Type | Count | Meaning | Distribution |
+|------|-------|---------|--------------|
+| `original` | 22 | Danny's own lyrics + own beat | Streaming platforms (Spotify, Apple Music, etc.) |
+| `cover` | 18 | Performing someone else's song | Streaming platforms with mechanical license |
+| `mixtape` | 17 | Original vocals over someone else's beat | Free release (SoundCloud, Bandcamp, DatPiff) |
+| `collab` | 10 | Produced with another artist (iLLPeTiLL) | Streaming platforms with split agreement |
+| `scripture` | 32 | Spoken word scripture/prayer | Streaming platforms (check NIV translation copyright) |
+| `unknown` | 57 | Not yet classified | Danny needs to confirm: own beat or someone else's? |
 
-**Ready to release now:** 22 originals (Instrumental album) + 32 scripture (AA Audible, pending NIV check) = 54 tracks
+**Mixtape tracks** use uncleared samples (Dr. Dre, Sublime, Atmosphere beats). Released for free — not about the money, it's about the music. The traditional hip-hop mixtape model: build a following, share the art.
 
-**Need licensing:** 18 covers (mechanical license, compulsory — straightforward) + 17 samples (sample clearance — harder, need rights holder approval)
-
-**Need agreement:** 10 collabs with iLLPeTiLL
-
-**Need classification:** 57 tracks where the beat source is unknown — Free Style, Sunny Daze, most Extras, all WIP sessions. Once Danny confirms which are his own beats vs sampled, they move to `original` or `sample`.
+**Need classification:** 57 tracks where the beat source is unknown. Once Danny confirms, they move to `original` (streaming) or `mixtape` (free).
 
 ## Track Metadata Format
 
@@ -256,7 +252,7 @@ Each song has a `.md` file with YAML frontmatter. Key/BPM data is stored per-sam
 ---
 artist: "'89 Vision"
 album: "'89 Vision"
-release_type: "sample"
+release_type: "mixtape"
 samples:
   - name: "Xxplosive"
     artist: "Dr. Dre"

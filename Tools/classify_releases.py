@@ -4,7 +4,7 @@
 Release types:
   original  — Danny's own lyrics + own beat. Free to release.
   cover     — Performing someone else's song. Needs mechanical license.
-  sample    — Original vocals over someone else's beat. Needs sample clearance.
+  mixtape   — Original vocals over someone else's beat. Free release only.
   collab    — Produced with another artist. Needs collaboration agreement.
   scripture — Spoken word scripture/prayer. Check translation copyright.
   unknown   — Not yet classified. Needs manual review.
@@ -112,7 +112,7 @@ def classify_track(filepath):
 
     # Known sampled tracks → sample
     if title in SAMPLED_TRACKS:
-        return "sample"
+        return "mixtape"
 
     # Check if samples array has a named sample
     if "samples:" in text:
@@ -123,7 +123,7 @@ def classify_track(filepath):
             if line.strip().startswith("samples:"):
                 in_samples = True
             elif in_samples and re.match(r'\s+- name:', line):
-                return "sample"
+                return "mixtape"
             elif in_samples and re.match(r'^[a-z]', line):
                 break
 

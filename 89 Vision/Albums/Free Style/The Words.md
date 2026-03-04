@@ -1,7 +1,7 @@
 ---
 artist: "'89 Vision"
 album: "Free Style"
-release_type: "sample"
+release_type: "mixtape"
 track: 3
 samples:
   - name: "Big Ego's"

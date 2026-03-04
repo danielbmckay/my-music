@@ -1,7 +1,7 @@
 ---
 artist: "'89 Vision"
 album: unreleased
-release_type: "sample"
+release_type: "mixtape"
 samples:
   - name: "Forgot About Dre"
     artist: "Dr. Dre"
