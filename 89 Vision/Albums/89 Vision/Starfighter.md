@@ -11,4 +11,4 @@ samples:
 
 Lyrics not yet transcribed
 
-Note: Written for Danny's son. LP transcription themes: "He's my blue-eyed one / First born to another nation / An observer to my ocean." Air traffic control radio motif. Concept: last star fighter. "I'm wearing a leather 'Star fighter' bomber." Full LP transcription available in Apple Notes under track #3 [Bang Bang].
+Note: Written for Brentley (Danny's son). LP transcription themes: "He's my blue-eyed one / First born to another nation / An observer to my ocean." Air traffic control radio motif. Concept: last star fighter. "I'm wearing a leather 'Star fighter' bomber." Full LP transcription available in Apple Notes under track #3 [Bang Bang].

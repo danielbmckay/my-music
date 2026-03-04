@@ -3,6 +3,8 @@
 ## Overview
 28 completed tattoos, 10+ planned. Each tattoo has layered meaning connecting to family, faith, music, sobriety, and life events. Tattoos are visible in much of the '89 Vision artwork and are part of the visual identity.
 
+**Tattoo Career:** Featured artist at God Is Good tattoo shop — head of the shop, front booth. Childhood dream realized.
+
 **Completed:** #1–28 | **Planned:** #29+ (starting with throat)
 
 ## Categories

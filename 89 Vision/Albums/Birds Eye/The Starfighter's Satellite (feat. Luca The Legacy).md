@@ -8,7 +8,7 @@ samples:
     artist: "Dr. Dre"
     key: "D#m"
     bpm: 92
-note: "Mashup of Starfighter + Satellite"
+note: "Mashup of Starfighter + Satellite. Luca The Legacy is Brentley — the last bit is him playing ukulele."
 ---
 
 Mashup track combining elements of "Starfighter" and "Satellite" from the '89 Vision album, featuring Luca The Legacy.

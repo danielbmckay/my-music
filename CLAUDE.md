@@ -29,11 +29,14 @@ Solo artist — founding and currently only member of two projects under Equalit
 
 **The Story:** San Diego — grew up in the projects. Two brain injuries — dropped on his head as an infant by his father, who was drinking and covered it up, and suicide attempt at 18 (car crash that nearly killed another driver in recovery; Danny later made amends). Air Force (2007–08, Wing Chapel Leader, Keesler AFB) → jail → Grossmont College (A.S., 3.97 GPA, 2012 Commencement Speaker, Phi Theta Kappa) → Stanford (B.A. Psychology, Departmental Honors, 3.82 GPA, Decision Neuroscience Lab Coordinator, Honors Thesis on the "sign effect") → Genesis Recovery San Diego (Resident Manager) → self-taught software engineer → Senior Software Engineer at Wickfire (7+ yrs) → Head of Engineering at CloseHack. Got sober at 20, 16 years sober. Speaks ASL at native level. Volunteers weekly in gang and murder unit of local jail, runs AA meetings inside. Featured on Shitfaced Sober podcast (June 2023). Father. Lives with PTSD. Tattoo artist. Pool player. Celibate.
 
+**Mission:** Change the world like Bob
 **Core Themes:** Mental health awareness (lives with PTSD, Tourette's — finger and eye tics), fatherhood, recovery, truth-telling
 **Major Musical Inspirations:** Bob Marley, Bradley Nowell (Sublime), Kanye West (documentary/story/career)
 **Current Influences:** Bumpin Uglies, Ballyhoo!, Chronixx
 **Artist DNA:** 50 Cent's intellect/business acumen/street smarts/truth-seeking/stumbly-but-hard delivery + Bradley Nowell's guitar and vocals + Eminem's lyricism
 **All-Time Favorite Songs:** "Crazy Fool" / "Foolish Fool" (Dee Dee Warwick → Bradley Nowell → Danny) and "This Train" (Bob Marley / Bradley Nowell) — guitar warmup standards
+**Children:** Miss Took (daughter, on ABCs), Brentley aka Luca The Legacy (son, on Starfighter — plays ukulele on The Starfighter's Satellite), Scarlet (stepdaughter, Begonia is her song), Skylar (daughter), Austin (deaf, into metal — why Danny speaks ASL)
+**Dad's Words:** "Point, shoot, aim." / "Anything bad is better than a poke in the eye with a sharp stick."
 **Tattooed on hands:** "This Train" and "The World Is Yours" (tattoos #24, #25)
 
 ### The Book — "Thrown"
