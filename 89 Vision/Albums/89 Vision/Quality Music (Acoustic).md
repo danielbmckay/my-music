@@ -8,6 +8,4 @@ samples:
     source: "original"
 ---
 
-*[Whisper draft — needs review]*
-
 Thank you so much for watching this video, and I'll see you in the next one.

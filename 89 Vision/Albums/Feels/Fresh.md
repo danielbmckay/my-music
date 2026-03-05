@@ -9,8 +9,6 @@ samples:
     bpm: 172
 ---
 
-*[Whisper draft — needs review]*
-
 I need a fresh start, some I'll make this next part, fresh, fresh, fresh, fresh, fresh,
 taking new pair of glasses in the Summertime, chillin' with your baby on the beach and knowin' that you got time
 laying down with your kids in the park just chillin', fresh, fresh, fresh, fresh, fresh, fresh, fresh,

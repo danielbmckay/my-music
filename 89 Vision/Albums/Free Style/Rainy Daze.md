@@ -9,8 +9,6 @@ samples:
     source: "original"
 ---
 
-*[Whisper draft — needs review]*
-
 You can't walk between the raindrops
 Walk between
 Walk between the repose

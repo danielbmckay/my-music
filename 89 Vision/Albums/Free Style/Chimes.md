@@ -9,8 +9,6 @@ samples:
     source: "original"
 ---
 
-*[Whisper draft — needs review]*
-
 This is what it feels like to be in the tele-ride, I'm the one, my baby girl, the air rockin' with me.
 This is what it feels like to be in the tele-ride, I'm the one, my baby girl.
 The air rockin' with me.

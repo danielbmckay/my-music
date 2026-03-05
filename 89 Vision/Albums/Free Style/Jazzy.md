@@ -9,8 +9,6 @@ samples:
     source: "original"
 ---
 
-*[Whisper draft — needs review]*
-
 Maybe I need to do a little jazz and get it mixed up and make it real spastic and tell
 my story through the tone of my voice and it's like I'm signing I don't have a choice.
 I can sing with the blues or I can sing with the pitch and the tune of an angel.

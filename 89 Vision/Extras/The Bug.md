@@ -8,6 +8,4 @@ samples:
     source: "original"
 ---
 
-*[Whisper draft — needs review]*
-
 You

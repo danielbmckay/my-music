@@ -10,8 +10,6 @@ samples:
 note: "Also known as Floating — freestyle over iLLPeTiLL beat"
 ---
 
-*[Whisper draft — needs review]*
-
 I feel like I'm floating, like red, gold, and green, you know me, but I'm quittin' smokin'
 weed.
 You heard me, it's time for me, it must be done, it must be me, it must be free.

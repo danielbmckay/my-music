@@ -10,8 +10,6 @@ samples:
 note: "Freestyle recorded while being held by police at a Dollar General"
 ---
 
-*[Whisper draft — needs review]*
-
 The sheriff won't help me when my boy wants a threat.
 What the hell is going on here?
 It's just, it's crazy.

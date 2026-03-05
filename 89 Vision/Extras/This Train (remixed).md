@@ -9,8 +9,6 @@ samples:
 note: "Remixed version of This Train"
 ---
 
-*[Whisper draft — needs review]*
-
 This train is bound for war
 This train is bound for glory
 Bound for glory

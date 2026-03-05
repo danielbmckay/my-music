@@ -8,8 +8,6 @@ samples:
     bpm: 92
 ---
 
-*[Whisper draft — needs review]*
-
 Years ago, there was a place called the Land of Point.
 And that was because everything in the Land of Point had one.
 The barns, the houses, the carts, everything, even the people.

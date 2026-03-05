@@ -10,8 +10,6 @@ samples:
     bpm: 96
 ---
 
-*[Whisper draft — needs review]*
-
 I don't want to be myself, I don't even dream about what happens.
 I don't want to be myself, I don't even dream about what happens.
 I don't want to be myself, I don't even dream about what happens.

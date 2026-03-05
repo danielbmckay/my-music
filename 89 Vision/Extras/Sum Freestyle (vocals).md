@@ -10,8 +10,6 @@ samples:
 note: "Vocal stem"
 ---
 
-*[Whisper draft — needs review]*
-
 let me introduce myself my name is Danny boy I walk the streets with the creeps eat with
 freaks tattoos clean snakes don't look at my eyes ray band start green I mean please
 respect my authority quality music you never heard of me then the boy free

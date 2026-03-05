@@ -9,8 +9,6 @@ samples:
     source: "original"
 ---
 
-*[Whisper draft — needs review]*
-
 Thanks.
 Don't know if I'm a piece of that secret treasure.
 Be time.

@@ -9,8 +9,6 @@ samples:
 note: "Raw vocal stem from Above The Clouds"
 ---
 
-*[Whisper draft — needs review]*
-
 Check, check, check, check, check.
 Give you some fire.
 I'm going to try.
@@ -38,8 +36,8 @@ So am I
 That's right
 All day
 Beats by Danny McKay
-89 Vision
-89 Vision
+'89 Vision
+'89 Vision
 Unanimous Decision
 9.5mm
 10.5mm

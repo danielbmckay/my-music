@@ -10,8 +10,6 @@ samples:
 note: "Vocal stem"
 ---
 
-*[Whisper draft — needs review]*
-
 I need a fresh start.
 Some will make this next part.
 Fresh, fresh, fresh, fresh, fresh, like a new pair of glasses in the summertime, chilling

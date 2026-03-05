@@ -8,8 +8,6 @@ samples:
     source: "original"
 ---
 
-*[Whisper draft — needs review]*
-
 music
 music
 music

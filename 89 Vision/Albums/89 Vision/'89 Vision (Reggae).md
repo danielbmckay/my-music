@@ -1,6 +1,6 @@
 ---
 artist: "'89 Vision"
-album: "89 Vision"
+album: "'89 Vision"
 release_type: "mixtape"
 samples:
   - name: "The Message"
@@ -8,8 +8,6 @@ samples:
     key: "D#m"
     bpm: 172
 ---
-
-*[Whisper draft — needs review]*
 
 Hey Pops, we in the junkyard today Hey Pops, we in the junkyard today
 Catch every sunrise on the way Your son ever in Chevron, a little Jose Cuervo
@@ -23,7 +21,7 @@ Even if we have to disable the brake pedals Zip tie, duct tape and bailing wire
 We can skip first skill Three wheel it down in Mexico
 We can really disappear, yeah K-onda, just a Honda way, shit, hold on
 Do a wheelie on the Harley We can take our time on fiesta on the island
-Watch the sunset at the cliffs In the Diego Bay with the McCays
+Watch the sunset at the cliffs In the Diego Bay with the McKays
 My cave flag flying as pedals float away with you
 Like when we walk the waterfalls In Jamaica, snorkeling the Kazimel Bay
 I saw a barracuda sipper version, bina coladas

@@ -9,8 +9,6 @@ samples:
     source: "original"
 ---
 
-*[Whisper draft — needs review]*
-
 Thought the world, thought the world, thought the world
 That's right
 Thought the world, thought the world, thought the world

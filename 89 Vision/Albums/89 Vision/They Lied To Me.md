@@ -9,7 +9,5 @@ samples:
 note: "Sampling a Green Day song"
 ---
 
-*[Whisper draft — needs review]*
-
 Green day, long view, um, uh, something about they just lied to me my whole life.
 I'm in the shower, I forgot.

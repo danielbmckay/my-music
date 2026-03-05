@@ -9,8 +9,6 @@ samples:
     source: "original"
 ---
 
-*[Whisper draft — needs review]*
-
 Chug, chug, chug, chug
 Give me some barb
 You can say hi
@@ -44,7 +42,7 @@ Hold it
 Release
 It's in your eyes don't fight it
 you're high so am I that's right all day all day all day all day all day
-89 vision 89 vision
+'89 Vision '89 Vision
 unanimous decision don't choke just choke
 I'm out
 I lied I'm back

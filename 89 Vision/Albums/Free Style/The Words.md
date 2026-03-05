@@ -10,8 +10,6 @@ samples:
     bpm: 89
 ---
 
-*[Whisper draft — needs review]*
-
 that's all I got left on the page just words but they came from my head while
 I laid in my bed and I couldn't find the words when I was awake but I'm in my bed
 right now I should pretend that I'm sleeping but I can't sleep it's like
